@@ -27,7 +27,7 @@ jobs:
             git config --local user.email action@github.com
             git config --local user.name "GitHub Action"
             git add .
-            got commit -m "Update word lists based on dictionary JSON files"
+            git commit -m "Update word lists based on dictionary JSON files"
 
         - name: Push Changes
           uses: ad-m/github-push-action@v0.6.0
