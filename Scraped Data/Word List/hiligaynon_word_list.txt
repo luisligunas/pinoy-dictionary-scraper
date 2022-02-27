@@ -4,26 +4,19 @@ Bisayâ
 Bisyâ
 Diós
 Espánya
-Espánya
 Hesukrísto
 Hesús
 Irlandahánon
-Irlandahánon
 Irlandánhon
-Irlandánhon
-Irlánda
 Irlánda
 Kabisayaán
 Kabisáy-an
 Kainsikán
 Kakatsiláan
 Orópa
-Orópa
 Pilipínas
 Pilipínhon
 Pilipíno
-a
-a
 a
 a-â
 abadésa
@@ -66,14 +59,12 @@ abuélo
 abyasión
 abyérto, ábyog, abyogán
 abá
-abá
 abá-a, abáa
 abád
 abága
 abák-abák
 abákan
 abáng
-abáng-ábang
 abáng-ábang
 abáno
 abáo
@@ -88,7 +79,6 @@ abí-ábi
 abíl
 abíl-abilón
 abíl-abíl
-abír
 abír
 abíso
 abó
@@ -136,7 +126,6 @@ adóbo
 adódos
 adórno
 agahán
-agahán
 agdayán
 agigísil
 agigísing
@@ -160,7 +149,6 @@ agubáraw
 agubáy
 agumá-a
 aguráng
-aguráng
 agutingón
 agutílò
 agutíng
@@ -178,16 +166,13 @@ agwása
 agwáson
 agá-agá
 agá-ága
-agá-ága
 agád
 agád-ágad
-agák
 agák
 agák-ak
 agálon
 agám
 agám-agám
-agáp
 agáp
 agás
 agás-agás
@@ -229,8 +214,6 @@ ahedrés
 aháng
 ahás
 ahát
-ahát
-aháw
 aháw
 aháy
 ahâ
@@ -248,11 +231,9 @@ akáso
 akásya
 akáy
 akíd
-akíd
 akíg
 akó
 akólito
-akúl-akúl
 akúl-akúl
 akús
 akút
@@ -300,7 +281,6 @@ alantúson
 alaníhon
 alapláag
 alapogán
-alapogón
 alapogón
 alapután
 alapátan
@@ -363,7 +343,6 @@ alimbúyug
 alimpapáw
 alimpásong
 alimpúlus
-alimpúlus
 alimpúrus
 alimwágas
 alimá
@@ -373,7 +352,6 @@ alimódyas
 alimókon
 alimósan
 alimúgtaw
-alimúnaw
 alimúnaw
 alingá
 alingá-ut
@@ -456,7 +434,6 @@ alugáynay
 aluká-it
 alulakúb
 alumílaw
-alumílaw
 alunga-óg
 alungá-og
 alungáy
@@ -483,7 +460,6 @@ alákre
 alálpak
 alám-álam
 alámag
-alámag
 alámak
 aláman
 alámbre
@@ -494,7 +470,6 @@ alángay
 alángkon
 alánion
 alányon
-aláo
 aláo
 aláo-álao
 aláp-ap
@@ -538,10 +513,8 @@ alók-alók
 alók-álok
 alóla
 alóm
-alóm
 alón-on
 alóng-ong
-alóp
 alóp
 alóphop
 alót
@@ -567,9 +540,6 @@ ambáy
 ambílay
 ambót
 ambót sa ímo
-ambót sa ímo
-ambót sa ímo
-ambót sa ímo
 ambúlung
 amenúdo
 amerikána
@@ -587,7 +557,6 @@ amomotolón
 amomókol
 amomónggo
 amomótol
-amorókpok
 amorókpok
 amorótik
 amoyóng
@@ -621,8 +590,6 @@ amó-ámo
 amóma
 amór
 amóy
-amóy
-amô
 amô
 amô-ámò
 amúlya
@@ -644,8 +611,6 @@ anglít-ánglit
 angsodón
 angsorón
 angá
-angá
-angá
 angán
 angán-angán
 angáy-ángay
@@ -653,7 +618,6 @@ angí
 angó
 angód
 angól
-angól-angól
 angól-angól
 angót
 anhelíto
@@ -698,7 +662,6 @@ anák
 anák-ának
 anám-anám
 anáno
-anáno pa
 anáno pa
 anánoy
 anékdota
@@ -746,7 +709,6 @@ apyán
 apáhan
 apán
 apás
-apás
 apás-ápas
 apát-apát
 apâ
@@ -782,7 +744,6 @@ arangí-ang
 araníbal
 arapátan
 arasálan
-arasán
 arasán
 arayágan
 ardilóso
@@ -841,7 +802,6 @@ arígay
 arík-ik
 arímo
 arína
-arína
 aríng-ing
 aríring
 arísgal
@@ -861,7 +821,6 @@ arót
 aróy
 arô
 arúad
-arúm
 arúm
 as-asón
 asahár
@@ -891,10 +850,8 @@ aséite
 aséra
 aséro
 así-así
-así-así
 así-ási
 asíbar
-asíg
 asíg
 asílo
 asín
@@ -951,7 +908,6 @@ atángan
 atás-átas
 atáy
 atáy-átay
-atáy-átay
 atáyan
 atí
 atí-áti
@@ -973,7 +929,6 @@ awóg
 ayopáka
 ayudánte
 ayá-ay
-ayá-ay
 ayád
 ayád-áyad
 ayádan
@@ -990,15 +945,11 @@ ayó-áyo
 ayód-áyod
 ayón
 ayóp
-ayóp
-ayô
-ayô
 ayô
 ayúda
 ayúno
 ayúp
 b
-ba
 ba
 ba-óg
 ba-óng
@@ -1048,7 +999,6 @@ bagá-bága
 bagáas
 bagákay
 bagáng
-bagáng
 bagángan
 bagáni
 bagáso
@@ -1057,7 +1007,6 @@ bagát-bagát
 bagátnan
 bagáy
 bagáybay
-bagâ
 bagâ
 bagâ-bágà, bagâ-bagâ
 bagéu
@@ -1074,7 +1023,6 @@ bagólbol
 bagón
 bagónbon
 bagóngon
-bagóong
 bagóong
 bagót
 bagótbot
@@ -1114,7 +1062,6 @@ bakayáw
 bakilí
 bakiâ, bákià
 bakláw
-bakláw
 bakokáng
 baksatón
 baksiwâ, baksíwà
@@ -1122,10 +1069,7 @@ bakunáwa
 bakyâ, bákyà
 baká
 baká-báka
-baká-báka
-baká-báka
 bakábáka
-bakág
 bakág
 bakáhan
 bakákon
@@ -1135,14 +1079,12 @@ bakáris
 bakát
 bakâ
 bakía
-bakía
 bakíd-bakíd
 bakíng
 bakíntol
 bakíras
 bakíro
 bakíta
-bakíya
 bakíya
 bakî-bákì
 bakód
@@ -1169,7 +1111,6 @@ balahúbà
 balailéhan
 balaisán
 balakhóon
-balakolón
 balakolón
 balakáng
 balakì
@@ -1203,7 +1144,6 @@ balaskugáy
 balasolón
 balasón
 balasúbas
-balasúbas
 balatasón, balatáson
 balatibát
 balatikál
@@ -1233,7 +1173,6 @@ balibód
 balighotán
 baliháwog
 balik-awót
-balikawáng
 balikawáng
 balikwáng, balíkwang
 balikwâ, balíkwà
@@ -1288,7 +1227,6 @@ balághan
 balágon
 baláhos
 baláka
-baláka
 baláking
 baláklan
 baláklon
@@ -1324,10 +1262,7 @@ balát
 balátas
 baláti
 balátik
-balátik
 balátong
-baláw
-baláw
 baláw
 baláy
 baláy-bálay
@@ -1336,11 +1271,9 @@ baláybay
 baláydan
 baláye
 baláyhan
-baláyhan
 baláyhon
 baláynon
 baláyo
-baláyong
 baláyong
 baláyran
 balâ-balâ
@@ -1352,7 +1285,6 @@ balígyà
 balík-bálik
 balíkas
 balíkda, balíkdan, balíkdi
-balíkdò
 balíkdò
 balíkwat
 balíkò
@@ -1370,9 +1302,7 @@ balískog
 balíswà
 balít
 balít-ad
-balít-ad
 balítan
-balítaw
 balítaw
 balítwà
 balítà
@@ -1388,7 +1318,6 @@ balón
 balón-balonán
 balónas
 balónos
-balót
 balót
 balóta
 balótbot
@@ -1418,8 +1347,6 @@ banduríya
 bandéha
 bandéra
 bandéra espanyóla
-bandéra espanyóla
-bandéra espanyóla
 banggiánay
 bangilíd, bangílid
 bangirít
@@ -1430,17 +1357,14 @@ bangá
 bangág
 bangál
 bangâ
-bangâ
 bangíg-bángig
 bangíl
 bangís
-bangî
 bangî
 bangî, -bangî
 bangón
 bangón-bángon
 bangót
-bangúd
 bangúd
 bani-ól
 banihót
@@ -1485,11 +1409,9 @@ banáyan
 banâ
 banâ-bánà
 baníg
-baníg
 baníklan
 banílad
 baníslak
-banóg
 banóg
 banógon, banogón
 banúyo
@@ -1536,8 +1458,6 @@ barás
 barásag
 baráto
 baráw
-baráw
-baráw
 baráw-báraw
 baráy-báray
 baráydan
@@ -1570,12 +1490,7 @@ bastidór
 bastánte
 bastón
 bastón ni San Hosé
-bastón ni San Hosé
-bastón ni San Hosé
-bastón ni San Hosé
 basá-bása
-basá-bása
-baság
 baság
 baság-úlo
 basál
@@ -1585,10 +1500,8 @@ basâ-basâ
 basín
 basío, basíyo
 basó-báso
-basó-báso
 basúra
 bat-ólan
-batakán
 batakán
 batasánon
 bataón
@@ -1617,7 +1530,6 @@ batâ
 batâ-bátà
 batí
 batí-báti
-batí-báti
 batíd
 batíis
 batík
@@ -1633,7 +1545,6 @@ batî
 batî-bátì
 bató
 bató-bató
-bató-báto
 bató-báto
 batóbalaníon
 batóbalánì
@@ -1651,7 +1562,6 @@ bawód
 bawóg
 bawóg-báwog
 bay
-bay
 bayakát
 bayawán
 baybáyon
@@ -1661,7 +1571,6 @@ bayábas
 bayág
 bayái
 bayát-báyat
-bayáw
 bayáw
 bayáw-báyaw
 bayâ
@@ -1723,7 +1632,6 @@ bihág-bíhag
 biháng
 bikwálon
 biká
-biká
 bikákà
 bikâ
 bikâ-bíkà
@@ -1782,7 +1690,6 @@ binangíg-bángig
 binaríta
 binaslanáy
 binatasán
-binatasán
 binatî-bátì
 binatóbató
 binayaráy
@@ -1822,7 +1729,6 @@ binángon
 binángto
 binánhaw
 binántuk
-bináryo
 bináryo
 binástos
 bináto
@@ -1944,8 +1850,6 @@ bokó
 bokó-bóko
 bokód
 bokóg
-bokóg
-bokóg
 bokól
 bokón
 bokón-bókon
@@ -1956,12 +1860,10 @@ bolobód
 bololághot
 bolánte
 bolók
-bolók
 bolónbóon
 bombardéo
 bombardéro
 bombardíno
-bombáy
 bombáy
 bombéro
 bombílya
@@ -1974,7 +1876,6 @@ borángkol
 borók
 borók-borók
 borók-bórok
-borón
 borón
 borót-bórot
 borô-bórò
@@ -2065,13 +1966,11 @@ bukád
 bukádkad
 bukágkag
 bukáka
-bukáka
 bukál
 bukálong
 bukálwà
 bukána
 bukárong
-bukás
 bukás
 bukáy
 bukáyò
@@ -2087,13 +1986,11 @@ bulahín
 bulahô
 bulalákaw
 bulalóy
-bulalóy
 bulangán
 bulawánon
 bulbulón
 bulbúlan
 bulgon
-bulibitóon
 bulibitóon
 bulingót
 bulináw
@@ -2137,7 +2034,6 @@ bulwágas
 bulwásag
 bulád
 bulág
-bulág
 bulágnò
 bulágsak
 buláhan
@@ -2147,7 +2043,6 @@ buláklak
 buláknit
 bulákwit
 bulálo
-bulálo
 bulán-bulán
 bulán-búlan
 buláng
@@ -2155,8 +2050,6 @@ bulánon
 bulásog
 bulásot
 buláug
-buláw
-buláw
 buláw
 buláw-búlaw
 buláwan
@@ -2170,15 +2063,12 @@ bulínga
 bulî
 bulúblag
 bulúg
-bulúg
 bulúgkáyog
 bulúk
 bulúksan
 bulúlngan
 bulúlngon
 bulúng
-bulús
-bulús
 bulús
 bulúsbúlus
 bulúsbúsan
@@ -2207,12 +2097,9 @@ bungát
 bungáy-búngay
 bungáyngay
 bungáyon
-bungáyon
 bungíl
 bungî
 bungóton
-bungúl
-bungúl
 bungúl
 buntalán
 bunáng
@@ -2281,7 +2168,6 @@ busísì, busîsî
 busón
 busú
 busúg
-busúg
 busúngan
 but-ánan
 butakál
@@ -2294,7 +2180,6 @@ butád
 butádo
 butáka
 butáng
-butáng
 butáng-bútang
 butánhan
 butánwan
@@ -2302,8 +2187,6 @@ butás
 butâ
 butâ-bútà
 butí
-butí
-butíg
 butíg
 butígis
 butín
@@ -2311,9 +2194,7 @@ butíngting
 butíti
 butítos
 butî
-butî
 butî-bútì
-butók
 butók
 butók-bútok
 butóng
@@ -2341,11 +2222,8 @@ buáya
 buélta
 buéno
 buúl
-buúl
 buúng
 buút
-buút
-bá-og
 bá-og
 bá-os
 bá-ot
@@ -2377,7 +2255,6 @@ bága
 bágat
 bágay
 bágay sa
-bágay sa
 bághak
 bághot
 bágio
@@ -2385,7 +2262,6 @@ bágkos
 báglot
 bágnas
 bágnos
-bágol
 bágol
 bágras
 bágrong
@@ -2405,13 +2281,11 @@ báhad
 báhas
 báhaw
 báhin
-báhin
 báho
 báhot
 báhoy
 báhì
 báhò
-báid
 báid
 báil
 báile
@@ -2424,10 +2298,6 @@ bák-ong
 báka
 bákak
 bákal
-bákal
-bákal
-bákal
-bákas
 bákas
 bákat
 bákbak
@@ -2436,7 +2306,6 @@ bákhay
 bákhon
 bákhò
 bákiaw, bakiáw
-bákid
 bákid
 bákit
 báklay
@@ -2452,7 +2321,6 @@ bákol
 bákris
 báksat
 báktin
-bákud
 bákud
 bákuna
 bákwa
@@ -2486,9 +2354,6 @@ bálon
 bálsa
 bálsamo
 bálud
-bálud
-bálud
-bálud
 bálus
 bályo
 bályog, balyóg
@@ -2507,11 +2372,9 @@ bándo
 bándog
 bándì
 báng-aw
-báng-aw
 báng-og
 bángag
 bángan
-bángbang
 bángbang
 bángdan
 bángday
@@ -2519,7 +2382,6 @@ bánggad
 bánggan
 bánggit
 bánggos
-bánggà
 bánggà
 bánggì
 bángig
@@ -2542,7 +2404,6 @@ bángol
 bángon
 bángot
 bángrus
-bángrus
 bángtan
 bángto
 bángtò
@@ -2558,7 +2419,6 @@ bánlas
 bánlò
 bánok
 bánol
-bánsag
 bánsag
 bánsi
 bánsil
@@ -2602,11 +2462,9 @@ básia
 básia, basiá
 básiaw, basiáw
 básil
-básil
 báskug
 báslan, baslánay
 báslay
-báso
 báso
 básol
 básta
@@ -2622,13 +2480,11 @@ bátak
 bátang
 bátas
 bátbat
-bátbat
 bátiag
 bátik
 báting
 báto
 bátog
-bátok
 bátok
 báton
 bátse
@@ -2650,7 +2506,6 @@ báwod
 báwog
 báwì
 báy-ad
-báy-ad
 báy-od
 báyad
 báyaw
@@ -2661,7 +2516,6 @@ báyle
 báylo
 báyo
 báywan
-báyà
 báyà
 báyò
 béka
@@ -2692,7 +2546,6 @@ bígsang
 bígsì
 bígtas
 bígà
-bígà
 bíhag
 bíhang, biháng
 bíhod
@@ -2706,7 +2559,6 @@ bíkà
 bíla
 bílad
 bílang
-bílang
 bílas
 bílay
 bílbig
@@ -2714,7 +2566,6 @@ bílbil
 bílik
 bílin
 bílo
-bílog
 bílog
 bílos
 bílwa
@@ -2726,7 +2577,6 @@ bínggid
 bínggis
 bínggit
 bínghal
-bíngka
 bíngka
 bíngkal
 bíngkas
@@ -2742,10 +2592,7 @@ bínlud
 bíno
 bínsol
 bínta
-bínta
-bínta
 bíntan
-bíntay
 bíntay
 bíntig
 bínting
@@ -2766,7 +2613,6 @@ bísta
 bíste
 bísyo
 bísò
-bísò
 bítad
 bítas
 bítay
@@ -2777,7 +2623,6 @@ bítlig
 bítok
 bítos
 bítì
-bítì
 bíyà
 bîbî, bíbì
 bóbeda
@@ -2787,20 +2632,13 @@ bóbog
 bóboy
 bóbò, bôbô
 bódbod
-bódbod
 bódhon
 bódo
 bóg-an, bóg-on
 bóg-oy
-bóg-oy
-bóg-oy
 bóhos
 bóhot
 bóka de páto, bokápáto, bóka y páto
-bóka de páto, bokápáto, bóka y páto
-bóka de páto, bokápáto, bóka y páto
-bóka de páto, bokápáto, bóka y páto
-bókbok
 bókbok
 bókhon
 bóklod
@@ -2823,8 +2661,6 @@ bórda
 bórlas
 bórnos
 bóro
-bóro
-bórong
 bórong
 bórò
 bósbos
@@ -2841,7 +2677,6 @@ búad
 búag
 búang
 búay
-búay
 búbud, bubúd
 búdhaw
 búdhon
@@ -2850,14 +2685,12 @@ búdlang
 búdlay
 búdloy
 búdlò
-búdlò
 búdngan
 búdol
 búdul
 búg-at
 búg-ong
 búg-os
-búgaw
 búgaw
 búghat
 búghà
@@ -2877,21 +2710,16 @@ búgsay
 búgsok
 búgsò
 búgtas
-búgtas
 búgtaw
-búgtong
 búgtong
 búgtot
 búgtoy
 búgtò
-búgtò
 búgwak
 búgwal
 búgway
-búgway
 búgà
 búhang
-búhat
 búhat
 búhay, buháy
 búhin
@@ -2907,7 +2735,6 @@ búkid
 búklad
 búklang
 búklas
-búklas
 búkles
 búklon
 búknit
@@ -2919,11 +2746,8 @@ búkò
 búl-an
 búl-o
 búl-ug
-búl-ug
-búla
 búla
 búlag
-búlak
 búlak
 búlan
 búlang
@@ -2936,12 +2760,7 @@ búlhit
 búlhot
 búlhug
 búli
-búli
-búli
-búli
 búlid
-búlig
-búlig
 búlig
 búlingón
 búlit
@@ -2958,15 +2777,11 @@ búlà
 bún-a
 bún-ag
 búnak
-búnak
-búnal
 búnal
 búnbun
 búndak
 búndul
 búng-bung
-búng-bung
-búnga
 búnga
 búngag
 búngaw
@@ -2975,26 +2790,19 @@ búngday
 búngga
 búnggit
 búnggò
-búnggò
 búnghay
 búnghay, bungháyan
 búngka
 búngkag
-búngkag
-búngkag nga ítlog
-búngkag nga ítlog
-búngkag nga ítlog
 búngkag nga ítlog
 búngkal
 búngkol
 búngkos
 búngkoy
 búngkras
-búngkras
 búnglay
 búngot
 búngsad
-búngsod
 búngsod
 búngug
 búngyud
@@ -3002,17 +2810,13 @@ búni
 búni, buní
 búnlak
 búnlaw
-búnlaw
 búnlot
 búnok
 búnoy
 búntal
-búntal
-búntis
 búntis
 búntit
 búntud
-búntug
 búntug
 búntul
 búnyag
@@ -3026,8 +2830,6 @@ búrnil, burníl
 búros
 búrung, burungán
 búrus
-búrus
-búrà
 búrà
 bús-og
 búsaw
@@ -3051,7 +2853,6 @@ búswak
 búswang
 búswit
 búsyad
-búsyad
 búsà, búsa
 bút-an, bút-on
 bút-ong
@@ -3065,8 +2866,6 @@ bútlig
 bútlog
 bútlà
 bútong
-bútong
-bútse
 bútse
 bútud
 bútwas
@@ -3080,12 +2879,10 @@ búy-an
 búy-on, buy-ónan
 búyhan
 búyla
-búyla
 búylog
 búyok
 búyot
 búyung
-búyò
 búyò
 búà
 c
@@ -3113,11 +2910,9 @@ dagumák
 dagáang
 dagáas
 dagáhay
-dagáhay
 dagáldal
 dagámi
 dagánas
-dagándan
 dagándan
 dagángdang
 dagás
@@ -3135,13 +2930,10 @@ dagíng-dagíng
 dagínit
 dagínot
 dagól-dagól
-dagól-dagól
 dagóldol
 dagón-dágon
 dagóok
 dagósò
-dagótdot
-dagótdot
 dagótdot
 dagúbdub
 dagúldul
@@ -3175,8 +2967,6 @@ dakí
 dakín-dákin
 dakúl-dakúl
 dakúp
-dakû
-dakû
 dakû
 dala-dalahón
 dalagmíton
@@ -3216,9 +3006,7 @@ dalupanî
 dalupápan
 dalupíngan
 dalusó
-dalusó
 dalwásì
-dalá
 dalá
 dalá-dála
 daláag
@@ -3235,9 +3023,7 @@ dalákpon
 dalámhà
 dalán
 dalándan
-dalándan
 daláng
-daláng-dálang
 daláng-dálang
 dalángpan
 dalás
@@ -3250,7 +3036,6 @@ dalâ
 dalígdig
 dalíhig
 dalíhì, dalihî
-dalíkdik
 dalíkdik
 dalín-as
 dalíngag
@@ -3298,7 +3083,6 @@ damísol
 damít
 damóg
 damókol
-damókol
 damót
 damót-dámot
 damô
@@ -3307,7 +3091,6 @@ damúlit
 dan
 danggásan
 dangkálan
-dangál
 dangál
 dangáw
 dangáw-dángaw
@@ -3330,8 +3113,6 @@ dapíog
 dapíol
 dapít
 dapî-dápì
-dapî-dápì
-dapóg
 dapóg
 dapólas
 dapón
@@ -3359,7 +3140,6 @@ darán-darán
 daráplì
 daráy
 darâ
-darâ
 daríri
 daróos
 dasiâ
@@ -3374,13 +3154,11 @@ datagón
 datág
 datáy-dátay
 datíng
-datíng
 datíng-datíng
 daw
 daw-ánay
 dawatán
 dawdáwan
-dawát
 dawát
 dawát-dawát
 dawâ-dawâ
@@ -3497,7 +3275,6 @@ dispánta
 dispánto
 dispárate, disparátis
 dispénsa
-dispénsa
 dispúnti
 dispúta
 distríto
@@ -3508,7 +3285,6 @@ ditâ
 diwal-ógan
 diwasíng
 diwatáhan
-diwál
 diwál
 diwán-on
 diwánhon
@@ -3529,7 +3305,6 @@ diósnon
 diót
 diót-dakû
 diótay
-diótay
 diótdiót
 dogíhon
 dohól
@@ -3545,13 +3320,11 @@ dologsánon
 dolwásì
 dolóktan
 dolón
-dolón
 dolónan
 dolót
 dominó
 domíngo
 domô
-don
 don
 donasyón
 dondónay
@@ -3562,8 +3335,6 @@ dorogsánon
 dorádo
 dorár
 doróg
-doróg
-doróg
 dorós
 dosél
 doséna
@@ -3572,7 +3343,6 @@ dotól-dótol
 doóg
 doók
 doóm
-doón
 doón
 doót
 dughanán
@@ -3589,8 +3359,6 @@ dugús
 dugúsnon
 duhá
 duhá ka púlò
-duhá ka púlò
-duhá ka púlò
 duhá-dúha
 duhá-sínko
 duhá-tátlo
@@ -3598,11 +3366,8 @@ duháw
 duhóng-dúhong
 duhóy-dúhoy
 duhô
-duhô
 dukasíng
 dukésa
-dukót
-dukót
 dukót
 dukóy-dukóy
 dukô
@@ -3621,7 +3386,6 @@ dulungkáan
 dulupláan
 dulután-on
 duluwásì
-dulág
 dulág
 duláhot
 duláng
@@ -3644,7 +3408,6 @@ dulún
 dulúngan
 dulúngan, dulungán
 dulúnggan
-dulús
 dulús
 dulút
 dumalayón
@@ -3683,13 +3446,10 @@ dungángo
 dungángok
 dungás
 dungúg
-dungúg
 dungúk
 dungúl
 dungúl-dungúl
 dunák
-dunâ
-dunâ
 dunâ
 dunút
 dupláan
@@ -3701,7 +3461,6 @@ durián
 durok-ónon
 durumálpog
 durupráan
-durár
 durár
 durâ
 durúgas
@@ -3729,7 +3488,6 @@ dá-up
 dáab
 dáad
 dáan
-dáan
 dáay
 dáb-ot
 dábdab
@@ -3741,12 +3499,9 @@ dáet
 dág-ay
 dág-dag
 dág-on
-dág-on
 dága
 dágas
 dágat
-dágay
-dágay
 dágay
 dághob
 dágiaw
@@ -3755,8 +3510,6 @@ dágit
 dágià
 dágkut
 dágmay
-dágmit
-dágmit
 dágmit
 dágnà
 dágpak
@@ -3770,7 +3523,6 @@ dágum
 dágway
 dágyang
 dágyà, dágyaw
-dágà
 dágà
 dáhan
 dáhig
@@ -3794,12 +3546,9 @@ dálat
 dálaw
 dáldag
 dáldal
-dáldal
-dálhag
 dálhag
 dálhay
 dálhit
-dálhog
 dálhog
 dálhon
 dália
@@ -3814,11 +3563,8 @@ dáma
 dámgo
 dámgot
 dámhag
-dámhag
 dámhuy
 dámla
-dámlag
-dámlag
 dámlag
 dámlot
 dámol
@@ -3826,9 +3572,7 @@ dámpal
 dámpi
 dámpig
 dámpit
-dámpit
 dámpon
-dámpug
 dámpug
 dámò
 dámù, damû, damúg, damúkol
@@ -3858,7 +3602,6 @@ dáp-ig
 dáp-ung
 dápal
 dápat
-dápat
 dápaw
 dápgan
 dápia
@@ -3867,16 +3610,13 @@ dápios, dapiós
 dápiot
 dápit
 dáplak
-dáplak
 dáplang
 dáplas
 dáplay
 dáplos
 dáplus
 dáplì
-dáplì
 dápnan
-dápol
 dápol
 dápon
 dápya, dáypos, dápyot
@@ -3898,7 +3638,6 @@ dát-an, dát-on
 dát-og
 dát-ol
 dát-on
-dáta
 dáta
 dátay
 dátdat
@@ -3926,7 +3665,6 @@ dâ
 dìhílmon
 dìmaísip
 día
-día
 díd-an
 dídi
 dídis
@@ -3936,7 +3674,6 @@ dígos
 dígra
 dígwà
 díhok
-díhon
 díhon
 díhut
 dík-dik
@@ -3948,10 +3685,6 @@ dílap
 dílà
 dílì
 dílì nga mugís
-dílì nga mugís
-dílì nga mugís
-dílì nga más-a
-dílì nga más-a
 dílì nga más-a
 dímdim
 dímus
@@ -3970,7 +3703,6 @@ dítil
 díting
 díwa
 díway
-dî
 dî
 dîmanínggol
 dîmasábi
@@ -3999,8 +3731,6 @@ dólà
 dón-an
 dóo
 dóol
-dóol
-dóol
 dóong
 dósdos
 dósis
@@ -4020,8 +3750,6 @@ dúghal
 dúghan
 dúghat
 dúghò
-dúghò
-dúghò
 dúgi, dugíhon
 dúgkal
 dúgmal
@@ -4030,7 +3758,6 @@ dúgmok
 dúgmon
 dúgok
 dúgpan
-dúgsò
 dúgsò
 dúgus
 dúgwak
@@ -4057,12 +3784,9 @@ dúl-ung
 dúlang
 dúldug
 dúldul
-dúldul
 dúlgan
 dúlhug
 dúli
-dúli
-dúling
 dúling
 dúlis
 dúlit
@@ -4077,7 +3801,6 @@ dúm-ok
 dúm-on
 dúm-ug
 dúmdum
-dúmdum
 dúmpug
 dúmpul
 dúmug
@@ -4085,7 +3808,6 @@ dúmà
 dún-an
 dúngan
 dúngas
-dúngdung
 dúngdung
 dúnggan
 dúnggas
@@ -4128,292 +3850,145 @@ dúyaw
 dúyong
 dúyug
 dúyò
-dúyò
-e
 e
 ebanhelísta
-ebanhelísta
-ebanhélyo
 ebanhélyo
 edisyón
-edisyón
-editór
 editór
 edukasyón
-edukasyón
-edukár
 edukár
 edád
-edád
-edén
 edén
 ehersísyo
-ehersísyo
-ehémplo
 ehémplo
 ehérsito
-ehérsito
-eklípse
 eklípse
 eksposisyón
-eksposisyón
-ekstremaunsyón
 ekstremaunsyón
 eksámen
-eksámen
-ektárea
 ektárea
 elegánte
-elegánte
-eleksyón
 eleksyón
 elektrisidád
-elektrisidád
-elektromotór
 elektromotór
 eleménto
-eleménto
-elepánte
 elepánte
 elokwénte
-elokwénte
-elástiko
 elástiko
 eléktor
-eléktor
-eléktriko
 eléktriko
 embahadór
-embahadór
-embaháda
 embaháda
 embalsamár
-embalsamár
-embarkasyón
 embarkasyón
 embornál
-embornál
-embustéro
 embustéro
 embárgo
-embárgo
-embúdo
 embúdo
 embúste
-embúste
-empanáda
 empanáda
 emperadór
-emperadór
-emperatrís
 emperatrís
 empesár
-empesár
-empleádo
 empleádo
 empléo
-empléo
-emprentáda
 emprentáda
 empresáryo
-empresáryo
-emprésa
 emprésa
 empáke
-empáke
-empátso
 empátso
 empéine, empéne
-empéine, empéne
-endonár
 endonár
 endóno
-endóno
-enemígo
 enemígo
 enkantohánon
-enkantohánon
-enkantádo
 enkantádo
 enkargádo
-enkargádo
-enkáhe
 enkáhe
 enkánto
-enkánto
-enperméra
 enperméra
 enpérmo
-enpérmo
-ensaláda
 ensaláda
 ensáyo
-ensáyo
-entabládo
 entabládo
 entiénde
-entiénde
-entiéro
 entiéro
 entradílya
-entradílya
-entregár
 entregár
 entremés
-entremés
-entreswélo
 entreswélo
 entráda
-entráda
-entyéro
 entyéro
 enágwas
-enágwas
-enáno
 enáno
 enéro
-enéro
-ermitányo
 ermitányo
 ermána, -o
-ermána, -o
-ermána, -o
-ermána, -o
-ermíta
 ermíta
 eréhe
-eréhe
-erétiko
 erétiko
 esgríma
-esgríma
-eskabétse
 eskabétse
 eskandalósa, -o
-eskandalósa, -o
-eskandalósa, -o
-eskandalósa, -o
-eskapuláryo
 eskapuláryo
 eskarlatína
-eskarlatína
-eskarláta
 eskarláta
 eskotáda
-eskotáda
-eskribiénte
 eskribiénte
 eskribáno
-eskribáno
-eskrupulósa, -o
-eskrupulósa, -o
-eskrupulósa, -o
 eskrupulósa, -o
 eskríto
-eskríto
-eskrúpulo
 eskrúpulo
 eskultór
-eskultór
-eskultúra
 eskultúra
 eskweláhan
-eskweláhan
-eskwádra
 eskwádra
 eskwála
-eskwála
-eskwéla
 eskwéla
 eskándalo
-eskándalo
-eskína
 eskína
 eskóba
-eskóba
-eskór
 eskór
 espanyól
-espanyól
-espelér
 espelér
 esperánsa
-esperánsa
-espirituhánon
 espirituhánon
 espiritú
-espiritú
-esponsáles
 esponsáles
 espuéla
-espuéla
-espáda
 espáda
 espánto
-espánto
-espárago
 espárago
 espého
-espého
-espérma
 espérma
 espía
-espía
-espónha
 espónha
 estampíta
-estampíta
-estandárte
 estandárte
 estasyón
-estasyón
-estatúto
 estatúto
 estimádo
-estimádo
-estiwítis
 estiwítis
 estrelyádo
-estrelyádo
-estríbo
 estríbo
 estrínke
-estrínke
-estudyánte
 estudyánte
 estádo
-estádo
-estámpa
 estámpa
 estánke
-estánke
-estánte
 estánte
 estár
-estár
-estóla
 estóla
 estúdyo
-estúdyo
-esénsya
 esénsya
 etsúra
-etsúra
-etér
 etér
 eukaristíya
-eukaristíya
-examinán
 examinán
 exkomulgár
-exkomulgár
-exkomunyón
 exkomunyón
 extraordináryo
-extraordináryo
 extremaunsyón
-extremaunsyón
-exámen
 exámen
 f
 falsificación
@@ -4514,7 +4089,6 @@ galán
 galáng-galáng
 galíng
 galít
-galít
 galít-galít
 galî
 galó
@@ -4522,10 +4096,8 @@ galó-gálo, galó-galó
 galón
 galô-galô
 galúng
-galúng
 gamhánan
 gamáy
-gamít
 gamít
 gamó
 gamól
@@ -4539,7 +4111,6 @@ ganháan
 gansílyo
 gantángan
 ganánsya
-ganás
 ganás
 ganót
 gapás
@@ -4575,11 +4146,9 @@ garáy
 garáy-garáy
 garí-gári
 garís
-garís
 garít, garítgarít
 garíta
 garó-garó
-garók
 garók
 garót
 garóti
@@ -4621,9 +4190,7 @@ gilayón
 gilihoón
 gilinháw-an
 giláng
-giláng
 gilókon
-gimáw
 gimáw
 gimáw-gímaw
 gin
@@ -4732,7 +4299,6 @@ grábas
 grábe
 grádo
 gráma
-gráma
 grána
 gráno
 grása
@@ -4741,7 +4307,6 @@ grásyas
 grátis
 gréka
 grípo
-gubán
 gubán
 gubát
 gubâ
@@ -4819,7 +4384,6 @@ gwánta
 gwántes
 gwárdya
 gwâ
-gwâ
 gwâ-sulúd
 gá
 gáab
@@ -4833,7 +4397,6 @@ gábing
 gábnot
 gábut
 gábà
-gádgad
 gádgad
 gádlas
 gádras
@@ -4856,9 +4419,7 @@ gákut
 gál-um
 gála
 gálab
-gálab
 gálaw
-gálgal
 gálgal
 gálhom
 gálhò
@@ -4872,10 +4433,8 @@ gámla, gámlon, etc.
 gámlò
 gámsa, gámson, etc.
 gámà
-gámà
 gán-it
 gána
-gánas
 gánas
 gándo
 gáng-gang
@@ -4887,13 +4446,10 @@ gánoy
 gánsa
 gánsal
 gánso
-gánso
 gántang
 gánya
 gányat
-gányat
 gánì
-gápas
 gápas
 gáplang
 gápus
@@ -4920,16 +4476,13 @@ gául
 gáup, gaúp
 gáuy
 gáwa
-gáwa
 gáwad
 gáwak
 gáwas
 gáway
-gáway
 gáwgaw
 gáwhad
 gáwhak
-gáwì
 gáwì
 gáyo
 gâgâ
@@ -4987,7 +4540,6 @@ gólob
 gólpe
 gólò
 góma
-góma
 gómi
 gómok
 gómon
@@ -4999,15 +4551,11 @@ góos
 góot
 góra
 górdo
-górdo
 góro
-górò
 górò
 góso
 gósok
 góta
-góta
-gótgot
 gótgot
 gúal, gú-al
 gúbat
@@ -5021,7 +4569,6 @@ gúkop
 gúlang
 gúlay, guláy
 gúlung
-gúlung
 gúlus
 gúlà
 gúlò, gúlob, gulób, gulót
@@ -5032,13 +4579,11 @@ gún-gun
 gúna
 gúnaw
 gúnda
-gúnda
 gúng-an
 gúnghaw
 gúnhat
 gúnhaw
 gúnit
-gúnting
 gúnting
 gúnum
 gúnut
@@ -5052,7 +4597,6 @@ gúrang
 gúray
 gúrob
 gúrung
-gúrus
 gúrus
 gús-ab
 gúsbat
@@ -5071,8 +4615,6 @@ gúyud
 gúyum
 h
 ha
-ha
-ha
 habagatnánon
 habagátnan
 habiogán
@@ -5088,7 +4630,6 @@ habón
 habóng-hábong
 habót
 habóy
-habúl
 habúl
 habús-habús
 habúyò
@@ -5111,7 +4652,6 @@ hagáy
 hagónoy
 hagóyhágoy
 hagô
-hagúbhub
 hagúbhub
 hagúk
 hagúlut
@@ -5147,7 +4687,6 @@ halalarán
 halalungán
 halalábon, halalabón
 halaláran
-halalígyon
 halalígyon
 halalínan
 halambalánon
@@ -5208,7 +4747,6 @@ haláy
 haláy-hálay
 haláyan
 haláyhay
-haláyhay
 halâ
 haléa
 halí
@@ -5233,7 +4771,6 @@ halúg-halúg
 halúgut
 halúk
 halúmhum
-halúmhum
 halúng-halúng
 halúnhun
 halúp
@@ -5242,8 +4779,6 @@ halúthut
 hamatâ
 hambalámbong
 hambalánon
-hambaléra,-o
-hambaléra,-o
 hambaléra,-o
 hambádan
 hambárò
@@ -5278,11 +4813,9 @@ hamóok
 hamóy
 hamóy-hámoy
 hamô
-hamô
 hamúg
 hamúl
 hamúok
-hamúot
 hamúot
 hamút
 hamút-ay
@@ -5328,12 +4861,10 @@ hanálì
 hanámbong
 hanáo, hanáwo
 hanás
-hanás
 hanás-hánas
 hanáwo
 hanáyak
 hanáyap
-hanâ
 hanâ
 hanâ-hanâ
 haní
@@ -5366,8 +4897,6 @@ hapíl-hápil
 hapín
 hapóhap
 hapón
-hapón
-hapón
 hapón-hapón
 hapón-hápon
 hapóy-hapóyon
@@ -5399,7 +4928,6 @@ harî-hárì
 haró-haró
 haróhal
 harók
-harók
 harókhok
 haróthot
 haróy
@@ -5423,7 +4951,6 @@ hatáas
 hatáy-hátay
 hatî
 hatók-hatók
-hatók-hatók
 hatól-hátol
 hatúd
 hatúd-kawát
@@ -5435,7 +4962,6 @@ hawát
 hawát-hawát
 hawáy
 hawâ
-hawâ
 hawíd
 hawít
 hawóng
@@ -5446,7 +4972,6 @@ hayághag
 hayáhay
 hayáng
 hayánghag
-hayát
 hayát
 hayát-hayát
 hayáw
@@ -5463,7 +4988,6 @@ haút-haút
 henerál
 herbabuéna
 herbabáka, herbabaká
-hermosa viéja
 hermosa viéja
 hi
 hi-
@@ -5550,8 +5074,6 @@ hilák-hílak
 hilánat
 hilás
 hiláw
-hiláw
-hiláw
 hiláwas
 hiláy
 hilímot
@@ -5562,12 +5084,10 @@ hilít
 hilít-hilít
 hilíung
 hilód-hílod
-hilód-hílod
 hilók
 hilók-hílok
 hilónghilóng
 hilóong
-hilós
 hilós
 hilô
 hilúm
@@ -5621,7 +5141,6 @@ himúd-os
 himúg-os
 himúg-ot
 himúgo
-himúgo
 himúgtoy
 himúgtò
 himúlat
@@ -5651,7 +5170,6 @@ hinalángday
 hinalígi
 hinalî
 hinaló
-hinalúp
 hinalúp
 hinambalán
 hinanarám
@@ -5727,7 +5245,6 @@ hinulungkagíng
 hinulungán
 hinulón-húlon
 hinun-ánon
-hinun-ánon
 hinungá
 hinunáw
 hinunúd
@@ -5776,7 +5293,6 @@ hinúlsul
 hinúlò
 hinúmaw
 hinún-an
-hinúnlan
 hinúnlan
 hinúptan
 hipón-hipón
@@ -5829,7 +5345,6 @@ hiwasâ
 hiwág-os
 hiwál
 hiwálà, panghiwálà
-hiwálà, panghiwálà
 hiwáos
 hiwâ
 hiwít
@@ -5878,15 +5393,12 @@ hoól
 hoón-hóon
 hoót
 hubág
-hubág
 hubán
 hubánan
-hubás
 hubás
 hubáyhubáy
 hubón
 hubón-húbon
-hubót
 hubót
 hubúg
 hubû
@@ -5915,7 +5427,6 @@ hugús
 hugút
 hukawón
 huksáray
-hukás
 hukás
 hukáw
 hukáy-hukáy
@@ -5987,7 +5498,6 @@ humâ-húmà
 humóg
 humóy-húmoy
 humút
-humút
 hundáus, hundá-us
 hunghungánan
 hungág
@@ -6011,7 +5521,6 @@ hunáwan
 hunáy-hunáy
 hunâ
 hunâ-húnà
-hunâ-húnà
 huní
 huní-húni
 hunít-húnit
@@ -6025,8 +5534,6 @@ hunús-húnus
 hupsáray
 hupúg
 hupúng
-hupút
-hupút
 hupút
 hupút-húput
 hurapáy
@@ -6047,15 +5554,12 @@ huráw
 huráy
 huráy-ad
 hurâ
-hurâ
-hurâ
 huríng-húring
 hurón-húron
 huróng
 hurót
 hurô
 hurúm-an
-hurúng
 hurúng
 hustísya
 husáy
@@ -6071,8 +5575,6 @@ huy
 huyangô
 huyáb-húyab
 huyágpà
-huyágpà
-huyáhoy
 huyáhoy
 huyánap
 huyáp
@@ -6102,7 +5604,6 @@ huól
 hwád, hwád-hwád
 háb-on
 hábas
-hábas
 hábay
 hábhab
 hábig
@@ -6113,8 +5614,6 @@ hábnus
 hábog
 hábok
 hábug
-hábug
-hábul
 hábul
 hábwà
 hábyog, habyogán
@@ -6130,9 +5629,7 @@ hádug
 hág-on
 hág-os
 hágad
-hágad
 hágak
-hágal
 hágal
 hágala
 hágan
@@ -6142,7 +5639,6 @@ hágbas
 hágbong
 hágdan
 hágdò
-hághag
 hághag
 hágkal
 hágkan
@@ -6155,14 +5651,12 @@ hágok
 hágpis
 hágpok
 hágrak
-hágrak
 hágrok
 hágud
 háguk
 hágung
 hágut
 hágwos
-hágyon
 hágyon
 hágyò
 hágò
@@ -6173,7 +5667,6 @@ hákab
 hákad
 hákal
 hákbut
-hákhak
 hákhak
 háklap
 háklò
@@ -6198,7 +5691,6 @@ hálhag
 hálhal
 háli
 hálin
-hálin
 hálit
 hálmok
 hálob
@@ -6206,7 +5698,6 @@ hálong
 hálop
 hálug
 hálup
-hálus
 hálus
 hálwos
 hálwot
@@ -6231,12 +5722,9 @@ hámpang
 hámpas
 hámpul
 hámrus
-hámrus
 hámtak
 hámtang
-hámtang
 hámtong
-hámyang
 hámyang
 hámò
 hán-an
@@ -6274,9 +5762,7 @@ hángà
 hánhan
 hánip
 hánlud
-hánlud
 hánlug
-hánluk
 hánluk
 hánod
 hánog
@@ -6299,7 +5785,6 @@ hápit
 háplak
 háplas
 háplay
-háplik
 háplik
 háplit
 háplos
@@ -6352,11 +5837,9 @@ háy-og
 háyab
 háyag
 háyhay
-háyhay
 háylo
 háyon
 háyop
-háyà
 háyà
 hâhâ
 hénero, heneró
@@ -6371,7 +5854,6 @@ híbyok
 híbò, híbo
 hídal
 hídhid
-hídlaw
 hídlaw
 hígdà
 hígin
@@ -6417,10 +5899,8 @@ híngyo, híngyò
 híngyò, hingyô
 híning
 hínis
-hínis
 hínlas
 hínlaw
-hínlò
 hínlò
 hínsan, hínson
 hínta, híntà
@@ -6443,12 +5923,10 @@ híras, hirás
 híraw
 hírba
 hírba artemísa or artemísia
-hírba artemísa or artemísia
 híro
 hírup
 hírà
 híso, hísò
-hísà
 hísà
 hítad
 hítam
@@ -6472,14 +5950,12 @@ hólon
 hólwà
 hómok
 hómoy
-hómoy
 hón-og
 hónhon
 hónos
 hóo
 hóod, hoodí
 hóog
-hóom
 hóom
 hóon
 hórma
@@ -6501,12 +5977,10 @@ húbsan, húbson
 húdlot
 húgas
 húgaw
-húgaw
 húgbon
 húgmay
 húgnat
 húgnit
-húgnà
 húgnà
 húgpay
 húgpung
@@ -6519,7 +5993,6 @@ húgut
 húgyaw
 húgà, hugâ
 húk-ab
-húkab
 húkab
 húkas
 húkaw
@@ -6534,7 +6007,6 @@ húkò
 húl-ab
 húl-an
 húlag
-húlas
 húlas
 húlaw
 húlay
@@ -6587,7 +6059,6 @@ húpit
 húptan
 húpug
 húput
-húput
 húpà
 húraw
 húrip, huríp-húrip
@@ -6599,7 +6070,6 @@ húsay
 húsi
 húslò
 hústo
-húsà
 húsà
 hút-ong
 hútal
@@ -6618,732 +6088,359 @@ húyug
 húyung, huyúng-húyung
 húyup, huyúp
 i
-i
-i
-i
-ibabaláy
 ibabaláy
 ibubungán
-ibubungán
-ibulúndak
 ibulúndak
 ibá
-ibá
-ibá-íba
 ibá-íba
 ibábaw
-ibábaw
-ibágo
 ibágo
 ibán
-ibán
-ibán-ibán
 ibán-ibán
 ibán-íban
-ibán-íban
-ibíd
 ibíd
 ibíd-ibíd
-ibíd-ibíd
-ibók-íbok
 ibók-íbok
 ibóy
-ibóy
-idilímdim
 idilímdim
 idlák-ídlak
-idlák-ídlak
-idulúngug
 idulúngug
 idág
-idág
-idágan
 idágan
 idálum
-idálum
-idík
 idík
 idíngan
-idíngan
-idóg
 idóg
 idóg-idóg
-idóg-idóg
-idól
 idól
 idô
-idô
-ig
 ig
 igaláhum
-igaláhum
-igbabaláy
 igbabaláy
 igbalátì
-igbalátì
-igkulúdlit
 igkulúdlit
 iglésya
-iglésya
-ignoránte
 ignoránte
 igpát-ígpat
-igpát-ígpat
-igsulúlat
 igsulúlat
 igsáwà
-igsáwà
-igsóon
 igsóon
 igtubá
-igtubá
-igulúlut
 igulúlut
 igá-igá
-igá-igá
-igái
 igái
 igái, igá-i
-igái, igá-i
-igíl-igíl
 igíl-igíl
 igít
-igít
-igód
 igód
 igók-ígok
-igók-ígok
-ihaláplas
 ihaláplas
 ihawán
-ihawán
-ihibaló
 ihibaló
 ihián
-ihián
-ihulúngit
 ihulúngit
 iháda, ihádo
-iháda, ihádo
-ihíd
 ihíd
 ihíd-ihíd
-ihíd-ihíd
-ihíg, ihígihíg
 ihíg, ihígihíg
 ihím
-ihím
-ihî-íhì
 ihî-íhì
 ihô
-ihô
-ika
-ika
-ika
 ika
 ikaduhá
-ikaduhá
-ikalimá
 ikalimá
 ikapitó
-ikapitó
-ikapúlò
 ikapúlò
 ikasaráng
-ikasaráng
-ikasiám
 ikasiám
 ikawaló
-ikawaló
-ikaáyo
 ikaáyo
 ikbáw-íkbaw
-ikbáw-íkbaw
-iklahás
 iklahás
 ikláhag
-ikláhag
-ikuduhá
 ikuduhá
 ikán-um
-ikán-um
-ikáng-íkang
 ikáng-íkang
 ikáon
-ikáon
-ikáp-at
 ikáp-at
 ikátlo
-ikátlo
-ikáw
 ikáw
 ikíb
-ikíb
-ikî
 ikî
 ikóg-íkog
-ikóg-íkog
-ikógan
 ikógan
 ilabí
-ilabí
-ilagâ
 ilagâ
 ilalakúb
-ilalakúb
-ilalangúb
 ilalangúb
 ilalapák
-ilalapák
-ilawód
 ilawód
 ilayá
-ilayá
-ilibusón
 ilibusón
 ilighámon
-ilighámon
-iligmáon
 iligmáon
 iligán
-iligán
-iligón
 iligón
 ilihawán
-ilihawán
-ilihawón
 ilihawón
 ilihián
-ilihián
-ilihán
 ilihán
 ilihíon
-ilihíon
-ililigán
 ililigán
 ililúbon, ililubón
-ililúbon, ililubón
-ilimnánan
 ilimnánan
 ilin-,-ilin
-ilin-,-ilin
-ilinitán
 ilinitán
 ilintindíhon
-ilintindíhon
-ilintúon
 ilintúon
 ilináway
-ilináway
-ilipitán
 ilipitán
 ilisipón
-ilisipón
-ilistáran
 ilistáran
 ilisán
-ilisán
-ilitlógan
 ilitlógan
 ilongán
-ilongán
-ilulúthang
 ilulúthang
 ilá
-ilá
-ilá-íla
 ilá-íla
 iláb
-iláb
-iláhas
 iláhas
 ilám
-ilám
-iláng-ílang
 iláng-ílang
 iláw
-iláw
-iláwod
 iláwod
 iláya
-iláya
-ilâ-ílà
 ilâ-ílà
 ilí-íli
-ilí-íli
-ilíg
 ilíg
 ilímnan
-ilímnan
-ilímnon
 ilímnon
 ilíngod
-ilíngod
-ilís-ílis
 ilís-ílis
 ilísan
-ilísan
-ilíslan
 ilíslan
 ilóg-ilogán
-ilóg-ilogán
-ilóg-ílog
 ilóg-ílog
 ilóg-ílóg
-ilóg-ílóg
-ilóm
 ilóm
 ilóm-ilóm
-ilóm-ilóm
-ilóng
 ilóng
 ilóy
-ilóy
-ilóynon
 ilóynon
 ilô
-ilô
-impanáda
 impanáda
 impisá
-impisá
-impiérno
 impiérno
 imprentáda
-imprentáda
-imprénta
 imprénta
 impátso
-impátso
-impéryo
 impéryo
 impíne
-impíne
-imán-imán
 imán-imán
 imáw
-imáw
-imáy
 imáy
 imâ
-imâ
-imâ
-imâ
-in
 in
 inagahán
-inagahán
-inagíhan
 inagíhan
 inagón
-inagón
-inagúnto
 inagúnto
 inagúsan
-inagúsan
-inahán
 inahán
 inakúp
-inakúp
-inalabúab
 inalabúab
 inaláw
-inaláw
-inalóng-ong
 inalóng-ong
 inamerikánhon
-inamerikánhon
-inamáy
 inamáy
 inangán
-inangán
-inantarán
 inantarán
 inanák
-inanák
-inanáy
 inanáy
 inapináy
-inapináy
-inapâ
 inapâ
 inarabúab
-inarabúab
-inaradóhan
 inaradóhan
 inarohál
-inarohál
-inaról
 inaról
 inarót
-inarót
-inasinán
 inasinán
 inasál
-inasál
-indaháng
 indaháng
 indakál
-indakál
-indulhénsya
 indulhénsya
 indáy
-indáy
-indís-índis
 indís-índis
 indî-índì
-indî-índì
-inglés
 inglés
 ingréso
-ingréso
-ingáw
 ingáw
 ingâ
-ingâ
-ingít
 ingít
 ingód
-ingód
-ingód-íngod
 ingód-íngod
 inhenyéro
-inhenyéro
-inhustísya
 inhustísya
 inhényo
-inhényo
-inhústo
 inhústo
 inilóy
-inilóy
-ininglés
 ininglés
 inisipáy
-inisipáy
-initumán
 initumán
 inkurusán, inkurúsan
-inkurusán, inkurúsan
-inkáhi
 inkáhi
 inm
-inm
-inog
 inog
 inogbulungá
-inogbulungá
-inoghalángup
 inoghalángup
 inoghúngit
-inoghúngit
-inogpamáhid
 inogpamáhid
 inogpasúka
-inogpasúka
-inogsúgpon
 inogsúgpon
 inolípon
-inolípon
-inpiernohánon
 inpiernohánon
 inpiérno
-inpiérno
-insensáryo
 insensáryo
 insulár
-insulár
-insyénso
 insyénso
 insáyo
-insáyo
-intíndi
 intíndi
 intô-íntò
-intô-íntò
-inug
 inug
 inumá
-inumá
-inun-onán
 inun-onán
 inurároy
-inurároy
-inurúy-úruy
 inurúy-úruy
 inusisaáy
-inusisaáy
-inutús
 inutús
 inád-ad
-inád-ad
-inádlaw
 inádlaw
 inág
-inág
-inágaw
 inágaw
 inágpang
-inágpang
-inágsap
 inágsap
 inágyan
-inágyan
-ináloy
 ináloy
 inánay, inanáyan
-inánay, inanáyan
-ináng
-ináng
-ináng
-ináng
-ináng
 ináng
 ináng-ináng
-ináng-ináng
-ináng-ínang
 ináng-ínang
 ináni
-ináni
-ináno
-ináno
-ináno
 ináno
 inános
-inános
-inányan
 inányan
 inás
-inás
-ináton
 ináton
 ináw-ináw
-ináw-ináw
-ináy
 ináy
 ináynon
-ináynon
-inâ
 inâ
 inâ, iná
-inâ, iná
-inâ-inâ
 inâ-inâ
 iní
-iní
-iníhaw
-iníhaw
-iníhaw
 iníhaw
 iníngod
-iníngod
-inínit
 inínit
 inínsik
-inínsik
-inít-ínit
 inít-ínit
 inítan
-inítan
-inód
 inód
 inód-ínod
-inód-ínod
-inóm
 inóm
 inómol
-inómol
-inót-ínot
 inót-ínot
 inúm
-inúm
-inúnlan
 inúnlan
 inútsan
-inútsan
-inútud
 inútud
 ipalanimáhò
-ipalanimáhò
-ipalatugsíling
 ipalatugsíling
 ipangaláham
-ipangaláham
-ipanimáhò
 ipanimáhò
 ipisán
-ipisán
-ipitán
 ipitán
 ipotán
-ipotán
-ipyós, ípyos
 ipyós, ípyos
 ipyósan
-ipyósan
-ipíip, ipí-ip
 ipíip, ipí-ip
 ipít
-ipít
-ipó-ipó
 ipó-ipó
 ipóg
-ipóg
-ipót-ípot
 ipót-ípot
 ipótan
-ipótan
-ipóy
 ipóy
 ipóy-ipóyan
-ipóy-ipóyan
-ipóy-ípoy
 ipóy-ípoy
 ipóyan
-ipóyan
-ipô
 ipô
 ipô-ípò
-ipô-ípò
-iraháynon
 iraháynon
 irayá
-irayá
-irayánhon
 irayánhon
 irighámon
-irighámon
-irigmáon
 irigmáon
 irirós
-irirós
-irás
-irás
-irás
 irás
 iráya
-iráya
-iráynon
 iráynon
 irín
-irín
-iríng
 iríng
 iríod, irí-od
-iríod, irí-od
-iríwan
 iríwan
 iróg-iróg
-iróg-iróg
-iróhan
 iróhan
 irót
-irót
-irô
-irô
-irô
 irô
 irús
-irús
-isahón
 isahón
 isará
-isará
-isaymáda
 isaymáda
 isdáan
-isdáan
-isganán
 isganán
 isig
-isig
-isigka
 isigka
 isilínghot
-isilínghot
-isipán
 isipán
 istí-ísti
-istí-ísti
-isulúk-ay
 isulúk-ay
 isulúlat
-isulúlat
-isá
 isá
 isá-ísa
-isá-ísa
-isáhon
 isáhon
 isáis, isá-is
-isáis, isá-is
-isí-ísi
 isí-ísi
 isót
-isót
-isúk
 isúk
 italál-us
-italál-us
-itsúra, itsúri
 itsúra, itsúri
 itulúbuk
-itulúbuk
-itulúluk
 itulúluk
 itál-itál
-itál-itál
-itál-us
 itál-us
 itál-ítal
-itál-ítal
-ití
 ití
 itín-ítin
-itín-ítin
-itíp
 itíp
 itók-ítok
-itók-ítok
-itós
 itós
 itúm
-itúm
-itúng-ítung
 itúng-ítung
 iwád
-iwád
-iwál-iwál
 iwál-iwál
 iwán
-iwán
-iwí
 iwí
 iwí-íwi
-iwí-íwi
-iwík
 iwík
 iwól-iwól
-iwól-iwól
-iyagúrò
 iyagúrò
 iyágak
-iyágak
-iyágud
 iyágud
 iyás
-iyás
-iyós-íyos
 iyós-íyos
 iyót
 iás
-iás
 j
 k
-ka
-ka
-ka
-ka
 ka
 kaabakahán
 kaabiánan
@@ -7360,7 +6457,6 @@ kaagdayón
 kaagrotón
 kaagrót
 kaagtaón
-kaagwása
 kaagwása
 kaagáhon
 kaaháng
@@ -7494,7 +6590,6 @@ kabaulán
 kabayó
 kabaúlan
 kabeséra
-kabeséra
 kabesílya
 kabihágan
 kabikáhan
@@ -7550,7 +6645,6 @@ kabungkágan
 kabungyudán
 kabungyurán
 kabungáhan
-kabungáhan
 kabungúl
 kabunáyag
 kaburíghul
@@ -7579,7 +6673,6 @@ kabáskug
 kabástos
 kabásì
 kabául
-kabáy
 kabáy
 kabáyo
 kabâ-kábà
@@ -7613,7 +6706,6 @@ kabús
 kabúsug
 kabúthò
 kabúyaw
-kabúylog
 kabúylog
 kabúyok
 kabû
@@ -7713,8 +6805,6 @@ kadáygan
 kadáyà
 kadéna
 kadéna de amór
-kadéna de amór
-kadéna de amór
 kadísnon
 kadógian, kadogíhan, kadógyan
 kadól
@@ -7738,7 +6828,6 @@ kagabíi
 kagabúk
 kagagmayán
 kagalán
-kagalán
 kagalátud
 kagalúng
 kagamhánan
@@ -7760,13 +6849,11 @@ kagayonán
 kagayón
 kagidkirón
 kaginhawáan
-kaginhawáan
 kaginoóhan
 kagirihim-után
 kagirim-után
 kagomón
 kagulangón
-kagulángan
 kagulángan
 kagulútman
 kagutúk
@@ -7909,8 +6996,6 @@ kahápdus
 kahápdì
 kahápon
 kahápon nga ádlaw
-kahápon nga ádlaw
-kahápon nga ádlaw
 kaháran
 kahátì
 kaháwan
@@ -7967,7 +7052,6 @@ kairél
 kairír
 kaisipán
 kaisá
-kaisáhan
 kaisáhan
 kaisót
 kaitúm
@@ -8096,7 +7180,6 @@ kalandrákas
 kalangil-arán
 kalangán
 kalangás
-kalangís
 kalangís
 kalangítan
 kalanogónan, kalanogonán
@@ -8232,7 +7315,6 @@ kalábug
 kalábwak
 kalábà
 kaládo
-kaládo
 kaládì
 kalág
 kalág-it
@@ -8245,7 +7327,6 @@ kalágtom
 kalágway
 kalágyan
 kaláham
-kaláhà
 kaláhà
 kaláin
 kalála
@@ -8321,9 +7402,7 @@ kalóg
 kalóg-og
 kalókus
 kalólot
-kalólot
 kalómò
-kalóng
 kalóng
 kalóng-kálong
 kalónggo
@@ -8375,7 +7454,6 @@ kamantolán
 kamantígi
 kamantógol
 kamanwaháan
-kamanwaháan
 kamapasunaíron, kamapinasunaíron
 kamarín
 kamaróte
@@ -8410,7 +7488,6 @@ kampílan
 kamuadán, kamuarán
 kamulahán
 kamunóan
-kamunóan
 kamusmúsan
 kamáda
 kamág-an
@@ -8430,7 +7507,6 @@ kamásà
 kamát-an
 kamátay
 kamátis
-kamáy
 kamáy
 kamáy-kámay
 kamâ-kamâ
@@ -8452,7 +7528,6 @@ kamót
 kamóti
 kamóy
 kamôkamô
-kamúkhà
 kamúkhà
 kamúning
 kamúnsil
@@ -8523,7 +7598,6 @@ kanyámo, kanyamó
 kanyón
 kanyúto
 kaná
-kaná
 kanábaw
 kanákon
 kanál
@@ -8551,8 +7625,6 @@ kanó, kanô
 kanógon
 kanótnot
 kanô
-kanúnay
-kanúnay
 kanúnay
 kaodtohón
 kaolihánan
@@ -8628,7 +7700,6 @@ kapátol
 kapául
 kapáwà
 kapáy
-kapáy
 kapáy-kápay
 kapáyas
 kapé
@@ -8649,7 +7720,6 @@ kapóktol
 kapól-kápol
 kapólpog
 kapón
-kapóte
 kapóte
 kapóy
 kapúnaw
@@ -8683,7 +7753,6 @@ karapól
 kararím
 kararóton, kararotón
 karatán
-karatíl
 karatíl
 karawákaw
 karawít
@@ -8744,7 +7813,6 @@ karáykay
 karâ, kará
 karâ-kárà, karâ-karâ
 karéra
-karí
 karí
 karíkad
 karíl
@@ -8921,14 +7989,12 @@ kasírum, kasirúm
 kasóbol
 kasókáso
 kasóy
-kasóy
 kasúay
 kasúbung
 kasúdlan
 kasúgpay
 kasúgpon
 kasúgut
-kasúlgan
 kasúlgan
 kasúlya
 kasúm-od
@@ -9021,7 +8087,6 @@ katloán
 katsilán-on
 katsubúng, katsúbung
 katsílà
-katsílà
 katsórì
 katubaán
 katubohán
@@ -9091,7 +8156,6 @@ katáyog
 katâ-kátà
 katâtâ
 katí-katí
-katí-katí
 katíbsol
 katíd
 katíg-a
@@ -9121,7 +8185,6 @@ katúhay
 katúl
 katúl-id, katul-irón
 katúl-katúl
-katúl-katúl
 katúlad
 katúmbal
 katúnay, katunáyan
@@ -9136,7 +8199,6 @@ kaudál
 kaugalíngon
 kaugatán
 kaugdáwan
-kaulángan
 kaulángan
 kaumahán
 kaumangán
@@ -9170,7 +8232,6 @@ kawít-káwit
 kawó
 kawól
 kay
-kay
 kayawáan
 kayubúg
 kayumánggì
@@ -9182,15 +8243,12 @@ kayán
 kayán-káyan
 kayáng, káyang
 kayáng-káyang
-kayáng-káyang
 kayánghag
-kayás
 kayás
 kayâ
 kayâ-kayâ
 kayóg
 kayót
-kayô
 kayô
 kayúgpus
 kayúm-uk
@@ -9281,8 +8339,6 @@ kaúngdan
 kaúpud
 kaúti
 kerída,-o
-kerída,-o
-kerída,-o
 kibít
 kibô
 kibô-kíbò, kibô-kibô
@@ -9308,10 +8364,8 @@ kilitáon
 kiláb
 kilábò
 kilála
-kilála
 kilán-kílan
 kiláng-kílang
-kilás
 kilás
 kilát
 kiláw-kiláw
@@ -9319,7 +8373,6 @@ kiláy
 kilíd
 kilíkog
 kilíkot
-kilíng
 kilíng
 kilíng-kilíng
 kilís
@@ -9417,10 +8470,8 @@ kiribúd
 kiridanón
 kiridíg
 kirikót
-kirikót
 kirilikóg
 kirubín
-kiryó-kíryo
 kiryó-kíryo
 kiráb
 kiráb-kógon
@@ -9440,7 +8491,6 @@ kisáp-kísap, kisáp-kisáp
 kisáy
 kisáy-kísay
 kisí-kísi
-kisí-kísi
 kisó
 kisól-kísol
 kisóm
@@ -9453,7 +8503,6 @@ kitár
 kitáw-kitawón
 kitáw-kítaw
 kitíd
-kitíkot
 kitíkot
 kitín
 kiwás
@@ -9486,11 +8535,9 @@ kodál-kódal
 kodól-kodól
 kodót
 kodô
-kodô
 kodô-kódò
 kohín
 kokó
-kokód
 kokód
 kokóran
 kokót
@@ -9525,7 +8572,6 @@ kolíkog
 kolíkot
 kolíntas
 koló
-koló
 kolód-kólod
 kolókos
 kolómpyo
@@ -9535,7 +8581,6 @@ kolóskos
 kolóy-kolóy
 kolô
 kolô-kolô
-kombidádo
 kombidádo
 kombirádo
 kombáte
@@ -9547,9 +8592,7 @@ kompanyár
 kompanía
 komponér
 komposisyón
-komposisyón
 kompári
-kompás
 kompás
 komunikasyón
 komyanyéro
@@ -9562,7 +8605,6 @@ komód
 komód-kómod
 komóda
 komósta
-komún
 komún
 konbensyón
 konbénto
@@ -9583,7 +8625,6 @@ konsiénsya
 konswélo
 konsábo
 konsého
-konsého
 konsúlta
 kontratísta
 kontrinkánte
@@ -9595,7 +8636,6 @@ konó
 konó-kóno
 kopálon
 kopíta
-kopón
 kopón
 korasón
 korbása
@@ -9609,7 +8649,6 @@ korikót
 korisáw
 korisóng
 koritót
-koritót
 kornetín
 kornísa
 korokosó
@@ -9621,17 +8660,13 @@ kortaplúmas
 kortákórta
 kortína
 korál
-korál
 korális
 koréa
 koréo
 koríkot
-koríkot
 koríng
 koró-kóro
 koróna
-korô
-korô
 korô
 kosinéro
 kosmód-kósmod
@@ -9644,8 +8679,6 @@ kosína
 kosípad
 kosípak
 kosî
-kosî
-kosî-kósì
 kosî-kósì
 kosô-kósò
 kotoníya
@@ -9654,12 +8687,9 @@ kotséro
 kotsílyo
 kotsó-kótso
 kotíkot
-kotíkot
-kotó-kotó
 kotó-kotó
 kotól
 kotóy
-koíng, ko-íng
 koíng, ko-íng
 koón
 kredensyál
@@ -9708,7 +8738,6 @@ kulanít
 kulapâ
 kulapó
 kulasísi
-kulasísi
 kulbâ-kúlbà
 kuligót
 kulihót
@@ -9730,9 +8759,7 @@ kulákig
 kulámbot
 kulámi
 kulámog
-kulámog
 kulámò
-kuláng
 kuláng
 kuláng-kuláng
 kuláng-kúlang
@@ -9812,7 +8839,6 @@ kusí
 kusî
 kusól
 kusúg
-kusúg
 kutibáw
 kutimón
 kutimóy
@@ -9852,7 +8878,6 @@ kuyáb-kúyab
 kuyábug
 kuyábut
 kuyámpad
-kuyámpad
 kuyáp
 kuyápad
 kuyápad, kuyapád
@@ -9865,7 +8890,6 @@ kuyúg
 kuyúg-kúyug, kuyúg-kuyúg
 kuyúm
 kuyúng-kúyung
-kuyús
 kuyús
 kuá
 kuán
@@ -9892,7 +8916,6 @@ kwátro
 kwéba
 kwélyo
 kwími
-káag
 káag
 káb-ang
 káb-it
@@ -9932,7 +8955,6 @@ kághà
 káging
 káging, kagíng
 kágit
-kágit
 kágkag
 kágon
 kágot
@@ -9944,7 +8966,6 @@ káham
 káhan
 káhang
 káhas
-káhig
 káhig
 káhoy
 káka
@@ -9961,7 +8982,6 @@ kálbo
 káldo
 káli
 kális
-kális
 kálkag
 kálkal
 kálot
@@ -9971,15 +8991,10 @@ kálye
 kályo
 kálà
 kálò
-kálò
 kám-ang
 kám-aw
 káma
-káma
-káma
 kámang, kamáng
-kámara
-kámara
 kámara
 kámas, kamás
 kámay
@@ -10032,10 +9047,8 @@ kápan
 kápay
 kápid
 kápkap
-kápkap
 kápog
 kápol
-kápot
 kápot
 kápoy
 kápre
@@ -10045,7 +9058,6 @@ kápug
 kápyot
 kápà
 kár-on
-kára
 kára
 kárat
 káraw
@@ -10061,11 +9073,9 @@ kárà
 kása
 kása, kasá
 kási
-kási
 kásing
 káskas
 kásko
-kásla
 kásla
 káso
 káspang
@@ -10101,7 +9111,6 @@ káwkaw
 káwtì
 káwà
 káy-ag
-káy-ag
 káy-an
 káy-us
 káya
@@ -10122,7 +9131,6 @@ kíbkib
 kíblon
 kíbtan
 kíbul
-kíbut
 kíbut
 kíbyas
 kíd-an
@@ -10160,7 +9168,6 @@ kínaw
 kíndab
 kíngke
 kíngking
-kíngking
 kínhod
 kínhol
 kíni
@@ -10185,7 +9192,6 @@ kíslan
 kíso
 kítkit
 kítà
-kítà
 kíum
 kíwal
 kíyas
@@ -10194,13 +9200,11 @@ kóbkob
 kóbo
 kóbot
 kóbre
-kóbre
 kódak
 kódkod
 kódong
 kódtan, kódton
 kóg-ong
-kógkog
 kógkog
 kógon
 kók-kok
@@ -10209,7 +9213,6 @@ kókok
 kókoy
 kókò
 kól-an
-kóla
 kóla
 kólan
 kólas
@@ -10244,8 +9247,6 @@ kórnel
 kóro
 kórta
 kórte
-kórte
-kórte
 kórtso
 kósmod
 kósnit
@@ -10260,8 +9261,6 @@ kótso
 kótò
 kôkô
 kúbay
-kúbkub
-kúbkub
 kúbkub
 kúbo
 kúbsan
@@ -10281,7 +9280,6 @@ kúgus
 kúhit
 kúhà
 kúkik
-kúkuk
 kúkuk
 kúl-aw
 kúlan
@@ -10316,7 +9314,6 @@ kúnop
 kúnsad
 kúntan
 kúntà
-kúntà
 kúnus
 kúnya
 kúnyag
@@ -10331,7 +9328,6 @@ kúpog
 kúpus
 kúpì
 kúra
-kúra
 kúris
 kúrit
 kúrso
@@ -10341,7 +9337,6 @@ kúrung
 kúrì
 kúsam
 kúsdong
-kúskus
 kúskus
 kúskus-balónos
 kúsmud
@@ -10394,7 +9389,6 @@ labák-labák
 labán
 labáw
 labáy
-labáy
 labáy-labáy
 labáy-lábay, labáy-labáy
 labí
@@ -10409,7 +9403,6 @@ labôlaboón
 labôlabô
 labúd
 labúd-labúdon
-labúg
 labúg
 labúg-labúg
 labúg-lábug
@@ -10445,13 +9438,11 @@ lagá-lága
 lagábung, lagabúng
 lagádì
 lagák
-lagák
 lagámak
 lagápak, lagapák
 lagápok, lagapók
 lagárì
 lagás
-lagás-lágas
 lagás-lágas
 lagátik, lagatík
 lagátok, lagatók
@@ -10459,7 +9450,6 @@ lagáw-lágaw
 lagáy
 lagáy, lagáy-lágay
 lagâ
-lagâ-lágà
 lagâ-lágà
 lagí-lági
 lagó, lágo
@@ -10492,8 +9482,6 @@ lahóg
 lahóg-lahogán
 lahóg-láhog
 lahón
-lahón
-lahóng
 lahóng
 lahús
 lahús-láhus
@@ -10505,7 +9493,6 @@ laktúdan, laktúran
 lakád-lákad
 lakáng
 lakás
-lakát
 lakát
 lakâ
 lakí
@@ -10547,10 +9534,8 @@ lalúd
 lalúg
 lalúgay
 lalúng
-lalúng
 lamanít
 lamawán, lamáwan
-lamayó
 lamayó
 lambiráy, lambíray
 lambunáwon
@@ -10592,7 +9577,6 @@ lamígas
 lamína
 lamínday
 lamî
-lamî
 lamî-lamî
 lamód
 lamógò
@@ -10621,7 +9605,6 @@ langán
 langán-langán
 langás
 langâ-langâ, langâlángà
-langís
 langís
 langís-lángis
 langít-lángit
@@ -10656,14 +9639,11 @@ lanót-lánot
 lanóy-lánoy
 lanúbò
 lanús
-lanús
 lapakán
 lapgósan
 laping-itán
 lapiád-lápiad
 lapunáya
-lapád
-lapád
 lapád
 lapád-lápad
 lapák-lapák
@@ -10706,14 +9686,12 @@ latág-látag
 latás
 latâ
 latík
-latík
 latík-latík
 latín
 latî
 lató-láto
 latód
 latók, látok
-latón
 latón
 latós
 latóy
@@ -10722,10 +9700,8 @@ laugán
 lawrél
 lawáon
 lawás
-lawás
 lawásnon
 lawí-láwi
-lawíg
 lawíg
 lawíhan
 lawís
@@ -10749,13 +9725,11 @@ layóng
 layô
 layô-láyò
 layúyò
-layúyò
 laás-láas
 laímnan
 laín
 laín-láin
 laíng
-laís
 laís
 laód, laóg, laón
 laóng
@@ -10790,7 +9764,6 @@ librería
 libutúg
 libád-libád
 libág
-libág
 libág-libágon
 libágon
 libáhon
@@ -10799,21 +9772,17 @@ libákaw
 libálib
 libánaw
 libáng
-libáng
 libás
 libát
 libáyon
 libâ
 libó-líbo
-libó-líbo
 libón, líbon
-libô
 libô
 libúg
 libútay
 lidgirán
 lidiyár
-lidít
 lidít
 ligatón
 ligná-lígna
@@ -10856,7 +9825,6 @@ likî-líkì
 likóan
 likód
 likô
-likô
 likô-líkò
 likúm
 lilasán
@@ -10877,7 +9845,6 @@ limpyabótas
 limpá-límpa
 limpásong
 limunsíto
-limá
 limá
 limálíma
 limátok
@@ -10929,7 +9896,6 @@ lintaón
 linukúsan
 linuyáhan
 linábo
-linábo
 linágo
 linágot
 linágpang
@@ -10953,7 +9919,6 @@ liprán
 lipák
 lipás-lípas
 lipásong
-lipát
 lipát
 lipíd
 lipód
@@ -11042,7 +10007,6 @@ lonók
 lotehán
 loó
 loób-lóob
-loób-lóob
 loóg
 loók
 loóm
@@ -11055,7 +10019,6 @@ lubngánan
 lubá
 lubád
 lubád-lúbad
-lubád-lúbad
 lubás
 lubáy
 lubí
@@ -11065,10 +10028,6 @@ lubúg
 lubúk
 lubúng
 lubús
-lubús
-lubút
-lubút
-lubút
 lubút
 ludíyo
 lugawán
@@ -11077,7 +10036,6 @@ lugpítan
 lugák
 lugántud
 lugár
-lugás
 lugás
 lugáto
 lugáw-an
@@ -11111,7 +10069,6 @@ lukót-lukót
 lukótlúkot
 lukú-lukuán, lukûlukuán
 lukúb
-lukúb
 lulubngánan
 lulugumán
 lulukdóhon
@@ -11139,11 +10096,9 @@ lumád
 lumápaw
 lumát
 lumáw
-lumáw
 lumáw-lumáw
 lumáwan, lumawán
 lumáy
-lumâ
 lumâ
 lumílaw
 lumíng
@@ -11157,14 +10112,11 @@ lungá
 lungá-lungahán
 lungá-ug, lungáug
 lungát
-lungát
 lungát-lúngat
 lungáw
 lungáy
 lungáyngay
-lungáyngay
 lungâ
-lungâ-lúngà
 lungâ-lúngà
 lungíb
 lungî-lúngì
@@ -11180,10 +10132,8 @@ lunúb
 lunúd
 lupáan
 lupád
-lupád
 lupág
 lupágì
-lupák
 lupák
 lupán-ak
 lupándang
@@ -11197,7 +10147,6 @@ lupók-lúpok
 lupón
 lupót
 lupót-lupót
-lupô
 lupô
 lupô-lupô
 lupô-lúpò
@@ -11213,8 +10162,6 @@ lusút-lúsut
 luthô-lúthò
 lutá
 lutá-lutahán
-luták
-luták
 luták
 lutás
 lutáw
@@ -11237,11 +10184,9 @@ luyúng
 luyúng-lúyung
 luáb
 luág
-luág
 luág-lúag
 luáng, lu-áng
 luáng-lúang
-luás
 luás
 luásnon
 luát, lu-át
@@ -11257,18 +10202,13 @@ láang
 láas
 láaw
 láb-as
-láb-as
 láb-ok
-láb-on
-láb-on
 láb-on
 láb-ot
 láb-un
 lábag
 lábang
-lábang
 lábaw
-lábay
 lábay
 lábhag
 lábhan
@@ -11286,15 +10226,12 @@ lábra
 lábtan
 lábtik
 lábtog
-lábtog
 lábtoy
 lábud
-lábug
 lábug
 lábut
 lábwak
 lábyaw
-lábyog
 lábyog
 lábà
 lád-an
@@ -11305,7 +10242,6 @@ ládlad
 lág-i
 lág-id
 lág-it
-lág-it
 lág-ok
 lágang
 lágap
@@ -11313,8 +10249,6 @@ lágaw
 lágban
 lágbung
 lágbus
-lágbus
-lágdas
 lágdas
 lágday
 lágdos
@@ -11323,7 +10257,6 @@ lágdò
 lághap
 lághay
 lághit
-lághong
 lághong
 lághuy
 lági
@@ -11336,7 +10269,6 @@ lágkay
 láglag
 lágnat
 lágnay
-lágnoy
 lágnoy
 lágnà
 lágo
@@ -11358,10 +10290,6 @@ lágtang
 lágtas
 lágtik
 lágting
-lágting
-lágtok
-lágtok
-lágtok
 lágtok
 lágtom
 lágtoy
@@ -11377,12 +10305,10 @@ láhab
 láham
 láhap
 láhas
-láhas
 láhay
 láhid
 láhin
 láhob
-láhus
 láhus
 láin
 lák-ang
@@ -11401,11 +10327,8 @@ láknad
 láknib
 láknit
 lákot
-lákot
 lákre
 láksam
-láksam
-láksaw
 láksaw
 láksà
 láktan
@@ -11414,7 +10337,6 @@ láktud
 lákub
 lákwat
 lákwid
-lála
 lála
 lála, la-la
 lálay
@@ -11427,7 +10349,6 @@ lám-an
 lám-od
 lám-os
 lámang
-lámang
 lámas
 lámat
 lámay
@@ -11435,16 +10356,12 @@ lámba
 lámbang
 lámbas
 lámbat
-lámbat
-lámbat
 lámbay
 lámbid
 lámbing
 lámbit
 lámbo
 lámbun
-lámbun
-lámbung
 lámbung
 lámbut
 lámbò
@@ -11461,22 +10378,18 @@ lámpin
 lámpong
 lámpus
 lámà
-lámà
 lán-ag
 lán-aw
 lán-o
 lán-ok
 lán-os
 lána
-lána
-lánag
 lánag
 lánas
 lánaw
 lánay
 lándas
 lándok
-lándong
 lándong
 lándì
 láng-at
@@ -11502,7 +10415,6 @@ lángkag
 lángkat
 lángkay
 lángking
-lángking
 lángkoy
 lángkub
 lángkà
@@ -11514,8 +10426,6 @@ lángsa
 lángsì
 lángto
 lángub
-lángub
-lángub
 lángud
 lángyaw
 lángà
@@ -11524,10 +10434,8 @@ lániaw
 lániog
 lánkà, lánkag
 lánog
-lánog
 lánot
 lánoy
-lánsa
 lánsa
 lánsang
 lánse
@@ -11536,8 +10444,6 @@ lántaw
 lántay
 lántia, lántiog
 lántip
-lántip
-lánton
 lánton
 lántong
 lántoy
@@ -11556,7 +10462,6 @@ lápak
 lápas
 lápaw
 lápdos
-lápgos
 lápgos
 lápgot
 lápiad
@@ -11588,7 +10493,6 @@ lásio
 láslas
 láso
 lásog
-lásog
 láspì
 lásti
 lástiko
@@ -11599,11 +10503,8 @@ lásyo
 lásà
 lásì
 lát-ang
-lát-ang
 lát-od
 lát-on
-láta
-láta
 láta
 látag
 látak
@@ -11623,8 +10524,6 @@ láw-at
 láw-id
 láw-it
 láwag
-láwag
-láwag
 láwas
 láway
 láway, or láw-ay
@@ -11635,15 +10534,12 @@ láwis
 láwit
 láwlaw
 láwà
-láwà
 láy-ab
 láy-ang
 láy-aw
 láy-on
 láy-ud
 láya
-láya
-láyag
 láyag
 láyap
 láyas
@@ -11665,14 +10561,11 @@ líak, lí-ak
 líb-o
 líb-ok
 líbag
-líbag
-líbag
 líbgus
 líbo
 líbon
 líbra
 líbre
-líbro
 líbro
 líbtug
 líbud
@@ -11698,7 +10591,6 @@ lígbus
 lígdas
 lígdong
 líghot
-líghot
 lígid
 lígna
 lígni
@@ -11710,7 +10602,6 @@ lígson
 lígsà
 lígtas
 lígum
-lígwa
 lígwa
 lígwan
 lígwat
@@ -11728,7 +10619,6 @@ líkbà, likbâ-líkbà
 líkday
 líkding
 líkid
-líkis
 líkis
 líkit
 líklik
@@ -11749,17 +10639,14 @@ lílong
 lílì
 lím-aw
 líma
-líma
 límas
 límas, limás
 límbag
 límbo
 límbok
 límbong
-límbong
 límbò, límbo
 límnan
-límog
 límog
 límot
 límpa
@@ -11797,22 +10684,17 @@ líntì
 línya
 línà
 lío
-lío
 líod, lí-od
 líog, lí-og
 líong, lí-ong
 líp-ot
 lípas
 lípay
-lípay
-lípay
 lípdan
 lípdas
 lípià
 líplip
-líplip
 lípnan
-lípok
 lípok
 lípon, lipón
 lípong
@@ -11831,9 +10713,7 @@ lísi
 lískan
 lísngad, lisngád
 líso
-líso
 líson
-lísta
 lísta
 lísto
 líswa
@@ -11845,11 +10725,9 @@ lítag
 lítaw, litáw-lítaw
 lítkon
 lítog
-lítog
 lítok
 líton
 lítro
-lítug
 lítug
 líw-a
 líw-as
@@ -11891,18 +10769,14 @@ lóob
 lóod
 lóog
 lóok
-lóok
 lóos
 lórtsa
-lóslos
 lóslos
 lóte
 lótgot
 lótlot
 lóyloy
-lóyloy
 lúa
-lúab
 lúab
 lúad
 lúak, lú-ak
@@ -11934,8 +10808,6 @@ lúg-ok
 lúgaw
 lúgay
 lúgdang
-lúgdang
-lúgdang
 lúgdat
 lúghud
 lúghut
@@ -11955,8 +10827,6 @@ lúgtì
 lúgud
 lúgum
 lúgus
-lúgus
-lúgus
 lúgut
 lúgway
 lúhak
@@ -11970,17 +10840,13 @@ lúkban, lúkbon, etc.
 lúkbo
 lúkdo
 lúkhò
-lúkhò
-lúkit
 lúkit
 lúkmat
 lúknit
 lúkop
 lúkos
 lúkot
-lúkot
 lúkpan, etc.
-lúkso
 lúkso
 lúkub
 lúkup
@@ -11988,7 +10854,6 @@ lúkus
 lúkwat
 lúlan
 lúlay, luláy
-lúlid
 lúlid
 lúluk
 lúlò, lulô, lúlù, lulû
@@ -11998,7 +10863,6 @@ lúmang
 lúmay, lumáy
 lúmban
 lúmbang
-lúmbay
 lúmbay
 lúmbia
 lúmboy
@@ -12020,9 +10884,7 @@ lúnaw
 lúnay
 lúndong
 lúnes
-lúnes
 lúnggò
-lúnghaw
 lúnghaw
 lúngkab
 lúngsod
@@ -12030,9 +10892,7 @@ lúngì
 lúngò
 lúnhaw
 lúnlun
-lúnlun
 lúnok
-lúnsay
 lúnsay
 lúntad
 lúntay
@@ -12048,9 +10908,6 @@ lúpgas
 lúpiak
 lúpid
 lúpig
-lúpig
-lúpit
-lúpit
 lúpit
 lúpnan, etc.
 lúpos
@@ -12064,7 +10921,6 @@ lús-on
 lúsa
 lúsad
 lúsdan, etc.
-lúsgus
 lúsgus
 lúsgò
 lúsiat
@@ -12087,7 +10943,6 @@ lúto
 lútos
 lútsan, etc.
 lútò
-lútò
 lúu, etc.
 lúwa
 lúy-on
@@ -12100,10 +10955,6 @@ lúyung
 lúyà
 lúyò
 m
-ma
-ma
-ma
-ma
 ma
 maabyánon
 maabáng
@@ -12161,7 +11012,6 @@ maayád-áyad
 maayó-ayó
 maayó-áyo
 mabahô
-mabahúl
 mabahúl
 mabalalháson
 mabalaligyáon
@@ -12618,7 +11468,6 @@ makalalamón
 makalalámon
 makalalán-ag
 makalalánag
-makalalánag
 makalalás-ay
 makalaláton
 makalilímas
@@ -12680,7 +11529,6 @@ makigás
 makihariánon
 makihilawáson
 makilibúton
-makilitán-on
 makilitán-on
 makilitáon, makilitaón
 makilás
@@ -12821,7 +11669,6 @@ malágpad
 malágsing
 malágtik
 malágting
-malágting
 malágtok
 malágtom
 malágtoy
@@ -12875,7 +11722,6 @@ malígwa
 malígwis
 malíit, maliít
 malíksi
-malímbong
 malímbong
 malínaw
 malíndog
@@ -13112,7 +11958,6 @@ manunúyò; manunuyô
 manwáhà
 manyági
 maná
-maná
 manábaw
 manáda
 manák
@@ -13168,7 +12013,6 @@ mapati-patíhon
 mapatubáson
 mapatubóon
 mapatugsilíngon
-mapatumbayáon
 mapatumbayáon
 mapatuyángon
 mapaubúson
@@ -13274,7 +12118,6 @@ marúd-an
 masagíl-om
 masagúron, masinagúron
 masakitón
-masakitón
 masakít
 masakít-sakít
 masalingáya
@@ -13358,7 +12201,6 @@ masíngkal
 masíngkì
 masíot
 masípat
-masípat
 masípong
 masírì
 masíta
@@ -13373,14 +12215,12 @@ matagubalúson
 matahápon
 matahímik
 matahúm
-matahúm
 matakáb, matákab
 matalupángdon
 matalák-on
 matalás
 mataláwis
 matalíwis
-matalúm
 matalúm
 matalúnsay
 matandáon
@@ -13645,7 +12485,6 @@ metapísika
 metál
 metáte
 mga
-mga
 mikroskópyo
 mikróbyo
 mil
@@ -13700,7 +12539,6 @@ monyéka
 moriskéta
 moromoníka
 mortál
-morádo
 morádo
 moréno
 moréra
@@ -13766,7 +12604,6 @@ muérto
 má-má
 máan
 máan bay
-máan bay
 mábdus
 mád-an
 mádlus
@@ -13801,10 +12638,8 @@ máma
 mámaw
 mámay
 mámbis
-mámbis
 mámnà
 mámsà
-mámà
 mámà
 mán-og
 mán-ok
@@ -13814,16 +12649,13 @@ mánding
 mándò
 mángay
 mángga
-mángga
 mánggad
 mánggo
 mánghud
 mángkà
 mángmang
-mángmang
 mángtas
 mánkà
-mánlot
 mánlot
 mánlà
 mánngà
@@ -13844,7 +12676,6 @@ mártes
 mártir
 más-a
 mása
-mása
 másaw
 máskara
 máskin
@@ -13855,13 +12686,10 @@ máso
 másrut
 másà
 mát-an
-mát-an
 máthan
 mátik
 mátmat
 mátsing
-mátsing
-máwmaw
 máwmaw
 máxima, maximá
 máximum
@@ -13870,7 +12698,6 @@ máy-ong
 máya
 máyo
 médiko
-médya bída
 médya bída
 médyas
 médyo
@@ -13887,8 +12714,6 @@ míngaw
 mínus
 mínyò
 mísa
-mísa de tres
-mísa de tres
 mísa de tres
 místiko, mistikó
 míswa
@@ -13908,7 +12733,6 @@ mómò
 mónggo
 mónmon
 móno
-móno
 mónog
 mónte
 móok
@@ -13916,11 +12740,9 @@ móro
 móros
 mórto
 móymoy
-móymoy
 mômô
 múad
 múal
-múda
 múda
 múdlò
 múg-ot
@@ -13940,8 +12762,6 @@ múlò
 múmho
 múmuy
 mún-ag
-múndo
-múndo
 múndo
 múng-an
 múng-ay
@@ -13971,10 +12791,6 @@ múyaw, múy-aw
 múymuy
 múà
 n
-na
-na
-na
-na
 na
 nabádwan
 nabáha
@@ -14065,7 +12881,6 @@ ngábil
 ngábngab
 ngádlan
 ngálan
-ngálan
 ngálngal
 ngángò
 ngánì
@@ -14096,7 +12911,6 @@ ngúrub
 ngúsul
 ngúynguy
 ni
-ni
 nibél
 niháynihóy
 nikeládo
@@ -14119,7 +12933,6 @@ nobyá-nóbya
 nobyémbre
 nobyó-nóbyo
 nobína
-nobô
 nobô
 nombramyénto
 nombrár
@@ -14178,7 +12991,6 @@ nílo
 nímo
 nínig
 nínyo
-nínyo
 nípay
 nípi
 nípà
@@ -14200,310 +13012,152 @@ número
 núsnus
 nútnut
 o
-o
-obispádo
 obispádo
 obispílyo
-obispílyo
-obligasyón
 obligasyón
 obligár
-obligár
-obréro
 obréro
 obserbasyón
-obserbasyón
-obserbatóryo
 obserbatóryo
 obíha
-obíha
-obíspo
 obíspo
 obít
-obít
-obó
 obó
 obóg
-obóg
-octúbre
 octúbre
 od
-od
-odók
 odók
 odók-odókon
-odók-odókon
-odól-odól
 odól-odól
 odót
-odót
-odót-odót
 odót-odót
 odóy-ódoy
-odóy-ódoy
-ogkánan
 ogkánan
 ogrít
-ogrít
-ogád-ógad
 ogád-ógad
 ogáling
-ogáling
-ogánot
 ogánot
 ogót
-ogót
-ogóy-ógoy
 ogóy-ógoy
 ohális
-ohális
-oháng
 oháng
 ohó
-ohó
-ohón
 ohón
 okasyón
-okasyón
-oklô-óklò
 oklô-óklò
 okupasyón
-okupasyón
-okóg-ókog
 okóg-ókog
 okól-ókol
-okól-ókol
-okólokól
 okólokól
 okóm
-okóm
-okón
 okón
 okón-ókon
-okón-ókon
-okót
-okót
-okót
 okót
 okóy
-okóy
-olihí
 olihí
 olikíd
-olikíd
-olingíg
 olingíg
 olitáo
-olitáo
-olo
 olo
 oloasáwa
-oloasáwa
-olobráhon
 olobráhon
 olodóton
-olodóton
-ologán
 ologán
 olohán
-olohán
-olokabá
 olokabá
 olyo, ólyos
-olyo, ólyos
-olíba
 olíba
 olíhi
-olíhi
-olín
 olín
 olínggan
-olínggan
-olípon
 olípon
 olî-batâ, olîbatâ
-olî-batâ, olîbatâ
-oló-ólo
 oló-ólo
 olób
-olób
-olóbhon
 olóbhon
 ológ-ológ
-ológ-ológ
-olóhan
 olóhan
 olók
-olók
-olók
-olók
-olón-ólon
 olón-ólon
 olóng
-olóng
-olóng-ólong
 olóng-ólong
 olór
-olór
-omál
 omál
 omól-ómol
-omól-ómol
-omóy-ómoy
 omóy-ómoy
 ondô-óndò
-ondô-óndò
-ongî
 ongî
 ongô
-ongô
-onóg
 onóg
 operasyón
-operasyón
-operár
 operár
 opinyón
-opinyón
-opisyál
 opisyál
 opisína
-opisína
-opís
 opís
 opísyo
-opísyo
-opól-opól
 opól-opól
 opóng
-opóng
-opós
 opós
 opô
-opô
-oradór
 oradór
 orasyón
-orasyón
-orasón
 orasón
 oratóryo
-oratóryo
-ordinánsa
 ordinánsa
 organísta
-organísta
-organó, órgano
 organó, órgano
 origanó
-origanó
-orihinál
 orihinál
 oriénte
-oriénte
-orkésta
 orkésta
 orkílya
-orkílya
-ormigón
 ormigón
 orobráhon
-orobráhon
-orongán
 orongán
 orooráwa
-orooráwa
-orá
 orá
 oráb
-oráb
-orág-orág
 orág-orág
 orág-órag
-orág-órag
-orágon
 orágon
 oráhol
-oráhol
-orásan
 orásan
 orát-órat
-orát-órat
-orób
 orób
 oróbwon
-oróbwon
-oróg-orogán
 oróg-orogán
 oróg-oróg
-oróg-oróg
-orók
 orók
 orók-ok
-orók-ok
-oróng
 oróng
 oróod
-oróod
-oróy-óroy
-oróy-óroy
-oróy-óroy
 oróy-óroy
 osióso
-osióso
-oslibád
 oslibád
 oslitán
-oslitán
-oslitón
 oslitón
 oslít
-oslít
-ospitál
 ospitál
 osád-ósad
-osád-ósad
-osók
 osók
 osón
-osón
-osón
-osón
-otitíd
 otitíd
 otsabádo
-otsabádo
-otwásan
 otwásan
 otís
-otís
-otókan
 otókan
 otól-otól
-otól-otól
-otól-ótol
 otól-ótol
 otóm
-otóm
-otót
 otót
 otóy-ótoy
-otóy-ótoy
-owák
 owák
 owák-ówak
-owák-ówak
-owáy
 owáy
 oyá
-oyá
-oyámpong
 oyámpong
 p
-pa
-pa
-pa
-pa
 pa
 pa-ít
 paabá
@@ -14527,8 +13181,6 @@ paalág-ag
 paalíli
 paalínton
 paalób-ob
-paalúm
-paalúm
 paalúm
 paamagán
 paamenúdo
@@ -14719,8 +13371,6 @@ pagulúng
 pagurâ
 pagusá
 pagusáb
-pagusáb
-paguyá
 paguyá
 paguyá-gúya
 pagwâ
@@ -14926,14 +13576,10 @@ pakuribúng
 pakurás
 pakáb-ang
 pakábit
-pakábit
 pakádlaw
 pakádto
 pakán-an,-on
-pakán-an,-on
-pakán-an,-on
 pakánaw
-pakáng
 pakáng
 pakángan
 pakánta
@@ -14961,7 +13607,6 @@ pakórbot
 pakót
 pakót-pákot
 pakô
-pakúbkub
 pakúbkub
 pakúgus
 pakúmbò
@@ -15241,7 +13886,6 @@ palángit
 palánog
 palántang
 palánug
-palánug
 palápad
 palápak
 palápnag
@@ -15262,7 +13906,6 @@ paláy-on
 paláyag
 paláyas
 paláygay
-paláypay
 paláypay
 palâ
 palénke
@@ -15302,7 +13945,6 @@ palíta
 palíto
 palítog
 palíyo
-palíyo
 palî
 paló
 palógot
@@ -15310,7 +13952,6 @@ palók
 palókot, palolón
 palólos
 palóng
-palónos
 palónos
 palóy-páloy
 palô
@@ -15325,7 +13966,6 @@ palúpok
 palúpò, palupô
 palús
 palús-aw
-palúsad
 palúsad
 palúsut
 palúsò
@@ -15375,7 +14015,6 @@ pamalóng
 pamalótbot
 pamalô
 pamalúng
-pamalúng
 pamalús
 pamandáyan
 pamangkotánon
@@ -15403,7 +14042,6 @@ pamatán-on
 pamatáng
 pamatík-batík, pamatík-matík
 pamatî
-pamató
 pamató
 pamatók
 pamatúod
@@ -15477,7 +14115,6 @@ pamulúg-ot
 pamulúgnan
 pamulúgsò
 pamulúng
-pamulúng
 pamulúngon
 pamulús-ónon
 pamungós
@@ -15485,7 +14122,6 @@ pamungúl
 pamunsyón
 pamunít
 pamunóan
-pamunô
 pamunô
 pamuríg-ot
 pamurúg
@@ -15507,7 +14143,6 @@ pamutí
 pamutíg
 pamutî
 pamutók
-pamutók
 pamutúl
 pamuyáyaw
 pamuyó
@@ -15515,7 +14150,6 @@ pamuyóng
 pamuyô
 pamuág-puág
 pamuérsa
-pamuút
 pamuút
 pamáa
 pamáan
@@ -15531,7 +14165,6 @@ pamádo
 pamádyà
 pamág-an
 pamág-ang
-pamág-o
 pamág-o
 pamág-on
 pamághot
@@ -15605,12 +14238,10 @@ památdan
 památi
 památiag
 památok
-památok
 památon
 památse
 památyag
 památà
-památì
 památì
 pamául
 pamáw-as, pamáwas
@@ -15632,7 +14263,6 @@ pamílin
 pamílpig
 pamílì
 pamíngat
-pamíngaw
 pamíngaw
 pamíngga
 pamínghal
@@ -15657,11 +14287,9 @@ pamíslit
 pamíslong
 pamísta
 pamíste
-pamíste
 pamítak
 pamítay
 pamíto
-pamítos
 pamítos
 pamóbod
 pamókod
@@ -15699,7 +14327,6 @@ pamúlhug
 pamúlo
 pamúlong
 pamúlung
-pamúlung
 pamúlut
 pamúnak
 pamúnga
@@ -15721,16 +14348,13 @@ pamúslut
 pamúsud
 pamúsung
 pamút-an
-pamút-an
 pamúta
 pamúthò
-pamúto
 pamúto
 pamútong
 pamútot
 pamútò
 pamúung
-pamúut
 pamúut
 pamúy-an
 pamúyas
@@ -15739,7 +14363,6 @@ pamúyok
 pamúyong
 pamúyos
 pamúypuy, palamúypuy
-pan
 pan
 panabakô
 panabát
@@ -15792,7 +14415,6 @@ panagústos
 panagúyhà
 panahín-táhin
 panahî
-panahî
 panahón
 panahór
 panahót
@@ -15803,7 +14425,6 @@ panakáb
 panakáon
 panakár
 panakáyon
-panakúp
 panakúp
 panakús
 panalabíton
@@ -15859,7 +14480,6 @@ panapóg
 panapúngol
 panapús-tapús
 panapút
-panará
 panará
 panarága
 panarán
@@ -15990,7 +14610,6 @@ pangarímo
 pangarítos
 pangaróskos
 pangaróy
-pangaróy
 pangasá
 pangasábà
 pangasáwa
@@ -16048,7 +14667,6 @@ panghibuláhan
 panghigád
 panghilamón
 panghilám-os
-panghiláw-hílaw
 panghiláw-hílaw
 panghilód-hílod
 panghilóod
@@ -16252,7 +14870,6 @@ pangáhig
 pangáhoy
 pangák-ak
 pangáka
-pangáka
 pangákak
 pangákig
 pangákò
@@ -16265,7 +14882,6 @@ pangálpot
 pangálpò
 pangálsa
 pangályaw
-pangáman
 pangáman
 pangámbon
 pangámias
@@ -16287,8 +14903,6 @@ pangánit
 pangánod
 pangánta
 pangánti
-pangánti
-pangánti
 pangántod
 pangáon
 pangápas
@@ -16308,13 +14922,10 @@ pangáti
 pangáto
 pangátsi
 pangáwas
-pangáwas
 pangáwat
 pangáway
 pangáwit
-pangáwit
 pangáwà
-pangáyaw
 pangáyaw
 pangáyo
 pangáyò
@@ -16352,7 +14963,6 @@ pangórte
 pangós
 pangót
 pangótkot
-pangúbung
 pangúbung
 pangúdlit
 pangúghad
@@ -16524,7 +15134,6 @@ panuláton
 panuláy
 panulíp-súlip
 panulúd
-panulúd
 panulúng
 panumbalík
 panumbálay
@@ -16564,12 +15173,10 @@ panád-an
 panáda
 panádlong
 panág-on
-panág-on
 panágap
 panágas
 panágat
 panágda
-panághap
 panághap
 panághoy
 panágit
@@ -16602,21 +15209,16 @@ panálaw
 panálgan
 panálig
 panálo
-panálo
 panálsal
 panálug
 panálà
-panálà
 panám-is
 panámay
-panámay
 panámbong
-panámbì
 panámbì
 panámgo
 panámkon
 panámpad
-panámpok
 panámpok
 panámput
 panámpà
@@ -16645,7 +15247,6 @@ panánum, pananúm
 panányag
 panáp-ok
 panápa
-panápa
 panápang
 panápat
 panápton
@@ -16662,7 +15263,6 @@ panáwhat
 panáwsaw
 panáyod
 panáysay
-panáyà
 panáyà
 panâ
 paníb-ong
@@ -16685,7 +15285,6 @@ paníkma
 paníkmà
 paníksik
 paníktik
-paníktik
 paníktot
 paníkup
 paníkway
@@ -16707,7 +15306,6 @@ paníngad, paningád-tingád
 paníngal
 paníngding
 paníngga
-paníngga
 panínggil
 panínggit
 panínggol
@@ -16715,13 +15313,11 @@ panínghot
 paníngil
 paníngit
 panínglan
-panínglan
 paníngsing
 paníngug
 panínlò
 panínoy
 panínuk
-panípit
 panípit
 panípon
 panípà
@@ -16732,14 +15328,12 @@ panít-panít
 panítsit
 paníwang
 panóhol
-panóhol
 panóklò
 panókol
 panókoy
 panóksok
 panóksò
 panóktok
-panólong
 panólong
 panóloy, panolóy
 panóng
@@ -16784,11 +15378,9 @@ panúl-ung
 panúla
 panúlad
 panúlay
-panúlay
 panúlin
 panúltul
 panúluk
-panúlung
 panúlung
 panúmbag
 panúmbok
@@ -16875,7 +15467,6 @@ parál
 parálisis
 parás
 paráw
-paráw
 paráyan
 paréha
 parého
@@ -16926,7 +15517,6 @@ pasapatílya
 pasapayán
 pasapórte
 pasapút
-pasapút
 pasaríring
 pasayáng
 pasayáng-sayáng
@@ -16947,8 +15537,6 @@ pasilabút
 pasilongán
 pasilábo
 pasilíng
-pasilíng
-pasilíng-síling, pasilíng-silíng
 pasilíng-síling, pasilíng-silíng
 pasimpalád
 pasimáng
@@ -16978,7 +15566,6 @@ pastél
 pastór, pastóres
 pastóra
 pasubâ
-pasubâ
 pasubó
 pasubô
 pasulangán
@@ -16987,7 +15574,6 @@ pasulát
 pasuláw
 pasulíp
 pasulúd
-pasulúng
 pasulúng
 pasumpíya
 pasunáid
@@ -17001,7 +15587,6 @@ pasáblay
 pasáblog
 pasábnit
 pasábud
-pasábud
 paságì
 pasáhi
 pasákit
@@ -17009,7 +15594,6 @@ pasákup
 pasákà
 pasála
 pasálig
-pasálà
 pasálà
 pasálò
 pasámok
@@ -17030,7 +15614,6 @@ pasár
 pasát-um
 pasáut
 pasáw
-pasáy
 pasáy
 pasáyan
 pasáylo
@@ -17061,7 +15644,6 @@ pasó-páso
 pasóg-o
 pasógò
 pasóhot
-pasóhot
 pasók
 pasólok
 pasóng-ol
@@ -17075,7 +15657,6 @@ pasúbà
 pasúg-ak
 pasúg-o
 pasúkti
-pasúlung
 pasúlung
 pasúmpak
 pasúmpung
@@ -17169,7 +15750,6 @@ patágò
 patáid, pataíd, patá-id
 paták-paták
 patáka
-patáka
 patákas
 patákay
 patál-as
@@ -17183,7 +15763,6 @@ patándà
 patánlas
 patántan
 patánì
-patáo
 patáo
 patápuk
 patápus
@@ -17216,9 +15795,7 @@ patís
 patískug
 patóhok, patohók
 patók
-patók
 patók-pátok
-patóla
 patóla
 patóng
 patótot
@@ -17246,7 +15823,6 @@ paubús
 paudúng
 paugsarón
 paugút
-paugút
 paukóy
 paulî
 paulî-ulî
@@ -17259,7 +15835,6 @@ paupúd
 paupúk
 paupús
 paurúg
-paurúng
 paurúng
 pautingúl
 pautáw-útaw
@@ -17300,7 +15875,6 @@ paályak
 paályas
 paámak
 paáman
-paáman
 paámba
 paámbak
 paámbas
@@ -17310,7 +15884,6 @@ paámbit
 paámot
 paánad
 paándam
-paáng-ang
 paáng-ang
 paángay
 paánggid
@@ -17576,7 +16149,6 @@ pisók
 pisón
 pisót
 pisô
-pisô
 pitakán
 pitrólyo
 pitsokwérno
@@ -17588,14 +16160,12 @@ pitáka
 pitápitá
 pití-píti
 pitík
-pitík
 pitík-míngaw, pitíkmíngaw
 pitík-pítik
 pitípit
 pitípot
 pitó
 pitó-adláwan, pitoadláwan
-pitó-pitó
 pitó-pitó
 pitó-píto
 pitó-ádlaw, pitoádlaw
@@ -17636,7 +16206,6 @@ plasíbo
 platéro
 platílyo, platílyos
 platíto
-platíto
 plawtín
 plikílyo, plikílyos
 pliéges
@@ -17658,7 +16227,6 @@ pohonán
 poklíd-póklid
 pokoón
 pokák
-pokíto
 pokíto
 pokól
 pokô
@@ -17695,7 +16263,6 @@ potsyám
 potók
 potól
 poóng
-poóng
 prangkéo, prangkíyo, prankéo, prankíyo
 pransés
 pranéla
@@ -17718,7 +16285,6 @@ práyle
 prémyo
 prénda
 préno
-prénsa
 prénsa
 présko
 préso
@@ -17777,11 +16343,9 @@ pulá
 pulágsak
 puláhan
 pulák
-pulák
 puláw
 puláwan
 pulís
-puló-púlo
 puló-púlo
 pulókpok
 pulón
@@ -17794,7 +16358,6 @@ pulúgnan
 pulúkà
 pulún-on
 pulúnton
-pulús
 pulús
 pulúslan
 pulút
@@ -17858,10 +16421,8 @@ puráut
 puría, púria
 purô
 purúng
-purúng
 purúng-púrung
 purúnton
-purús
 purús
 purús-púrus
 purút
@@ -17890,7 +16451,6 @@ putî
 putók
 putók-putokán
 putóng
-putót
 putót
 putót-irín
 putóy-pútoy
@@ -17959,7 +16519,6 @@ páhì
 páhò
 páihud
 páin
-páin
 pák-ad
 pák-an
 pák-it
@@ -17975,7 +16534,6 @@ páklis
 páko
 pákok
 pákol
-pákpak
 pákpak
 pákris
 páksiu
@@ -17995,7 +16553,6 @@ pálay
 páldas
 pálhit
 pálhuk
-pálhì, pálhi
 pálhì, pálhi
 páli
 pálid
@@ -18026,7 +16583,6 @@ pándan
 pánday
 pándog
 pándong
-pándong
 pándut
 páng-al
 páng-it
@@ -18045,7 +16601,6 @@ pángog
 pángos
 pángot
 pángpang
-pángpang
 pángsot
 pángug
 pánhay
@@ -18060,8 +16615,6 @@ pánsit
 pánsit-lánglang
 pánsot
 pántag
-pántag
-pántaw
 pántaw
 pánting
 pántog
@@ -18073,17 +16626,13 @@ pápag
 pápas
 pápay
 pápha
-pápha
 pápnaw
 pápà, pâpâ
 pápò
 pára
-pára
 páras
 páray
 párdo
-párdo
-párik
 párik
 páris
 pároko, parokó
@@ -18103,8 +16652,6 @@ páskua, páskwa
 páskò
 páslang
 páslaw
-páslaw
-páslong
 páslong
 pásloy
 pásmo
@@ -18120,16 +16667,11 @@ pát-in
 pát-od
 pát-ud
 páta
-páta
 pátag
 pátas
 pátaw, patáw
 pátdan
-pátdan
 páthaw
-páthaw
-páti
-páti
 páti
 pátina
 pátio
@@ -18175,14 +16717,12 @@ pígus
 píhak
 pího
 píka
-píka
 píkas, pikás, pikasón
 píkat
 píking
 píknat
 píknik
 píknit
-píko
 píko
 píkot
 píkpik
@@ -18191,8 +16731,6 @@ píkul
 píl-an
 píl-as
 píl-ay
-píla
-píla
 píla
 pílak
 pílas
@@ -18205,24 +16743,18 @@ pílpig
 pílpil
 pílyo
 pílì
-pílì
 pín-ot
 píndak
 píngas
 píngga
 pínggan
 píngig
-píngig
 píngkaw
 píngos
 pínig
 pínkas
-pínkas
 píno
 pínpin
-pínpin
-pínsa
-pínsa
 pínsa
 pínsan
 pínsar, pinsár
@@ -18243,7 +16775,6 @@ pípì, pîpî
 píri
 pírik
 pírma
-pírma
 pírme
 pírot
 pís-an
@@ -18261,9 +16792,7 @@ písngò
 písos
 píspis
 písta
-písta
 píswak
-písì
 písì
 pít-ag
 pít-al
@@ -18298,14 +16827,12 @@ póklid
 póklo
 pókol
 pókot
-pókot
 pókpok
 póktol
 pólbora
 pólbos
 pólka
 pólo
-pólog
 pólog
 pólok
 pólon
@@ -18317,8 +16844,6 @@ pórba
 pórdo
 pórog
 pósas
-pósas
-póso
 póso
 póspas
 pósporo, posporó
@@ -18327,7 +16852,6 @@ póste
 póswak
 póswit
 pósò
-póto
 póto
 póypoy
 púak
@@ -18338,7 +16862,6 @@ púdag
 púdan
 púdlon
 púdlus
-púdlus
 púdyot, pudyót
 púg-a
 púg-is
@@ -18348,7 +16871,6 @@ púgad
 púgdaw
 púgday
 púgnak
-púgo
 púgo
 púgon
 púgot
@@ -18367,7 +16889,6 @@ púhot, puhót
 púka
 púkan
 púkaw
-púkaw
 púklat
 púklid
 púkol
@@ -18376,7 +16897,6 @@ púl-o
 púla
 púlag
 púlak
-púlaw
 púlaw
 púlhan
 púli
@@ -18390,7 +16910,6 @@ púlso
 púlug
 púlus
 púlut
-púlut
 púlway
 púlò
 pún-ud
@@ -18398,8 +16917,6 @@ púnas
 púnaw
 púnay
 púnda
-púnda
-púndo
 púndo
 púndok
 púng-aw
@@ -18414,7 +16931,6 @@ púngis
 púngki
 púngkoy
 púngkò
-púngpung
 púngpung
 púngsud
 púngyot
@@ -18438,7 +16954,6 @@ púraw
 púrga
 púro
 púron
-púrug
 púrug
 púrung, purúng
 púrus
@@ -18472,20 +16987,17 @@ pútiong
 pútlak
 pútlì
 púto
-púto
 púto-búngbung
 púto-tíaw
 pútot
 pútput
 pútro
 pútson
-pútson
 pútut
 pútyong
 púut
 púwak
 púy-as
-púya, puyá
 púya, puyá
 púyas
 púyat
@@ -18500,7 +17012,6 @@ ra-íng
 rabanít
 rabél
 rabó
-rabót
 rabót
 rabútyal
 radyográma
@@ -18541,7 +17052,6 @@ ran
 rapunáya
 rarámbing
 raráng
-raráng
 rarím
 rasák
 rasón
@@ -18566,8 +17076,6 @@ rekárgo
 rekínto
 relihión
 relihiósa, -o
-relihiósa, -o
-relihiósa, -o
 relikáryo
 relohería
 relohéro
@@ -18584,7 +17092,6 @@ reúma
 ribentadór
 ribusól
 ribál
-ribénta
 ribénta
 ribéte
 ribók
@@ -18641,7 +17148,6 @@ rubí
 rugák
 rulúdgud
 rumbâ-rúmbà
-rumbâ-rúmbà
 rumál
 rumán
 rumúy-rúmuy
@@ -18666,7 +17172,6 @@ ráhay
 ráhà
 rám-os
 rámas
-rámas
 rámat
 rámay
 rámbat
@@ -18680,7 +17185,6 @@ rára
 rári
 rárong
 rároy
-rása
 rása
 rásak
 rásras
@@ -18696,12 +17200,10 @@ régla
 réntas
 réy
 réyna
-réyna
 ríbit
 ríbrib
 ríg-as
 rígay
-rígkam
 rígkam
 rígna
 rígya
@@ -18739,7 +17241,6 @@ róskas
 rótulo, rotuló
 rúb-as
 rúbas
-rúbas
 rúblo
 rúbrika, rubriká
 rúbsak
@@ -18770,7 +17271,6 @@ rúyo
 rúyà
 s
 sa
-sa
 sa-otán, saotán
 sab-ongánan
 sabilá
@@ -18791,7 +17291,6 @@ sabór
 sabúd
 sabúlaw
 sabút
-sabút
 sabúy
 sadsáran
 sadáy-sáday
@@ -18806,8 +17305,6 @@ sagirít
 sagiwatâ
 sagiwát-an
 sagráda, -o
-sagráda, -o
-sagráda, -o
 sagráryo
 sagubáng
 sagubáy, sagúbay
@@ -18818,7 +17315,6 @@ sagwâ, sâgwà
 sagábay, sagabáy
 sagád
 sagádsad
-sagáhay
 sagáhay
 sagáid
 sagáksak
@@ -18864,7 +17360,6 @@ sahî
 sahóg
 sahót
 sahô
-sahô
 sakatehán
 sakayán
 sakayánhubút, sakayán-hubút
@@ -18877,7 +17372,6 @@ sakaán
 sakraménto
 sakripísyo
 sakáb
-sakáda
 sakáda
 sakám
 sakáng
@@ -19024,7 +17518,6 @@ saláryo
 salátan
 saláy
 saláysay
-saláysay
 saláysáyon
 saláywan
 salâ
@@ -19037,10 +17530,7 @@ salígsig
 salígwatóng
 salíit
 salík
-salík
 salík-sálik
-salík-sálik
-salíkdò
 salíkdò
 salíksik
 salíli
@@ -19050,14 +17540,12 @@ salíngsing
 salínà
 salíp-ak
 salíp-ong
-salíp-ong
 salíping
 salípsip
 salítre
 saló-sálo
 salóg
 salók
-salók-salók
 salók-salók
 salólong
 salómo
@@ -19068,9 +17556,7 @@ salóso
 salô
 salúbong
 salúd
-salúd
 salúg
-salúgsug
 salúgsug
 salúnò
 salúpap
@@ -19116,7 +17602,6 @@ samít
 samóg
 samóng
 samót
-samót
 samô
 san
 sanauná
@@ -19127,8 +17612,6 @@ sandí-ay
 sandíya
 sandúgò
 sandúkò
-sang
-sang
 sang
 sang-átan, sangátan
 sanggawád
@@ -19153,7 +17636,6 @@ sanám
 sanípa
 sanít
 sanúng
-sanúng
 saogán
 saoló
 sap-ongán, sap-óngan
@@ -19171,9 +17653,7 @@ sapátos
 sapáw
 sapáy
 sapâ
-sapâ
 sapâ-sápà
-sapí-sápi
 sapí-sápi
 sapín
 sapínit
@@ -19184,7 +17664,6 @@ sapópo
 sapóti
 sapúd, sápud
 sapúra
-sapút
 sapút
 sarabusáb
 sarabánda
@@ -19200,7 +17679,6 @@ saramíhay
 saramílhay
 saramónggay
 saramónggo
-saramúylo
 saramúylo
 sarangiság
 sarangúlà
@@ -19260,7 +17738,6 @@ satín
 saután, sa-után
 sawá
 sawáy
-sawáy
 sawáyang
 sawâ-sawâ
 sawî
@@ -19285,7 +17762,6 @@ sedalína
 seguridád
 segída
 segúndo
-segúndo,-a
 segúndo,-a
 segúro
 seisiéntos
@@ -19324,7 +17800,6 @@ seradór, seradóra
 seradúra
 serbísyo
 serbísyo públiko
-serbísyo públiko
 serdî-sérdì
 seremónyas
 serenáta
@@ -19361,14 +17836,12 @@ sig-angán
 sig-angón
 sig-anó
 sigahúm
-sigahúm
 sigarílyas, sigarílyo
 sigarílyo
 sigumár
 sigábung, sigabúng
 sigál-i
 sigáy
-sihág
 sihág
 siháy
 sihílo
@@ -19379,7 +17852,6 @@ siklob
 sikrotót
 sikrotóy
 sikutút
-sikwahî
 sikwahî
 sikwaló
 sikwayán
@@ -19394,7 +17866,6 @@ sikâ-sikâ
 sikí
 sikó
 sikóktot
-sikól
 sikól
 sikót, sikót-síkot
 sikú-ong, sikúong
@@ -19429,9 +17900,6 @@ silík-sílik
 silíkpon
 silíndro
 silíng
-silíng
-silíng
-silíng ko
 silíng ko
 silíngsilíng
 silî
@@ -19470,8 +17938,6 @@ sindakál
 sindúgò
 sinehán
 sinelásan
-sing
-sing
 sing
 sing-anó
 singayándágat
@@ -19627,7 +18093,6 @@ soklóban
 sokób
 sokóg
 sokól
-sokól
 sokóng
 sokót
 solaót
@@ -19648,14 +18113,12 @@ soláng
 solápok
 solár
 solát
-solát
 soléras
 solísas
 solók-solók
 solókban
 solókton
 solóndan
-solóng
 solóng
 solô
 sompílang, sompiláng
@@ -19690,12 +18153,10 @@ subá-súba
 subád
 subák
 subáng
-subáng
 subásta
 subáy
 subâ
 subíng
-subó
 subó
 subóg
 subók-súbok
@@ -19729,7 +18190,6 @@ sugíd-súgid
 sugír-om
 sugúd
 sugúng
-sugúng
 sugút
 suhág
 suhâ
@@ -19737,7 +18197,6 @@ sukáb
 sukámod
 sukát
 sukát-súkat
-sukáy
 sukáy
 sukíb
 sukî
@@ -19783,7 +18242,6 @@ sulákwid
 sulálob, sulálub
 sulálum
 sulámbaw
-sulámbaw
 sulámpaw
 suláng
 sulánting
@@ -19791,10 +18249,8 @@ sulánò
 sulápgot
 sulápuk
 sulát
-sulát
 sulát-súlat
 suláw
-suláy
 suláy
 suléras
 sulíg
@@ -19807,14 +18263,11 @@ sulúd
 sulúdlan
 sulúdsud
 sulúg
-sulúg
 sulúg-ak
 sulúlhan
 sulúndan
 sulúndon
 sulúng
-sulúng
-sulúnò
 sulúnò
 sulúptan
 sulúypon
@@ -19837,7 +18290,6 @@ sumsúman
 sumulúgal
 sumulúnud
 sumálang
-sumálà
 sumálà
 sumó
 sumúod
@@ -19912,15 +18364,12 @@ sáb-it
 sáb-o
 sáb-og
 sáb-ong
-sáb-ong
-sábad
 sábad
 sábado, sabadó
 sábak
 sábay
 sábdan
 sábding
-sábdong
 sábdong
 sábi
 sábid
@@ -19932,10 +18381,8 @@ sáblay, sabláy
 sáble
 sáblig
 sáblok
-sáblok
 sábnit
 sábsab
-sábud
 sábud
 sábun
 sábwag
@@ -19947,7 +18394,6 @@ sáday
 sádia
 sádlab
 sádngan
-sádsad
 sádsad
 sádto
 sádya
@@ -19969,7 +18415,6 @@ sághid
 sághoy
 sági
 ságib
-ságib
 ságing
 ságmit
 ságnoy
@@ -19979,7 +18424,6 @@ ságpong
 ságpò
 ságrit
 ságsag
-ságsag
 ságuà, saguâ
 ságway
 ságyad
@@ -19987,7 +18431,6 @@ ságyap
 ságà
 sáhat
 sáhà
-sáhì
 sáhì
 sáid
 sákal
@@ -20002,13 +18445,11 @@ sáklit, saklít
 sáklot
 sákmon
 sáko
-sáko
 sákol
 sákot
 sákpan, etc.
 sákra
 sákrò
-sáksak
 sáksak
 sáksi
 sákup
@@ -20016,10 +18457,7 @@ sákwa
 sákyan
 sákyud
 sákà
-sákà
-sákà
 sákò
-sál-ag
 sál-ag
 sál-an, etc.
 sál-ang
@@ -20027,13 +18465,10 @@ sál-ay
 sál-ing
 sál-ot
 sála
-sála
 sálad
 sálag
 sálap
-sálap
 sálas
-sálay
 sálay
 sálba
 sálbid
@@ -20043,7 +18478,6 @@ sálig
 sálmo
 sálmon
 sálo
-sálog
 sálog
 sálong
 sálsa
@@ -20057,25 +18491,20 @@ sálup
 sálwan
 sálya
 sálà
-sálà
 sám-ang
 sáma
 sámad
 sámay
 sámba
-sámba
 sámbad
 sámbag
 sámbat
-sámbat
 sámbil
-sámbit
 sámbit
 sámbo
 sámbol
 sámbri
 sámbud
-sámbut
 sámbut
 sámdong
 sámgon
@@ -20085,9 +18514,7 @@ sámpad
 sámpak
 sámpal
 sámpan
-sámpan
 sámpat
-sámpaw
 sámpaw
 sámpay
 sámpok
@@ -20101,7 +18528,6 @@ sámwad
 sámò
 sánag
 sánaw
-sánaw
 sánay
 sánda
 sándad
@@ -20114,12 +18540,9 @@ sáng-an
 sáng-at
 sáng-ul
 sángal
-sángal
-sángal
 sángat
 sángdol
 sángga, sánggà
-sánggab
 sánggab
 sánggit
 sánggol
@@ -20134,18 +18557,14 @@ sángkap
 sángkay
 sángkol
 sángkò
-sángkò
 sánglad
 sánglay
 sánglit
-sánglit
 sánglà
-sángod
 sángod
 sángpad
 sángput
 sángra
-sángsang
 sángsang
 sángtan
 sángya
@@ -20165,7 +18584,6 @@ sántos
 sántò
 sányag
 sányog
-sáog
 sáog
 sáp-an
 sáp-ang
@@ -20189,7 +18607,6 @@ sápnot
 sápol
 sáprat
 sápsap
-sápsap
 sápsuy
 sápua
 sápwa
@@ -20197,7 +18614,6 @@ sápya
 sápyaw
 sápyod, sapyód
 sápyot
-sápò
 sápò
 sárab
 sárag
@@ -20213,7 +18629,6 @@ sáro
 sárot
 sársa
 sárwal
-sárà
 sárà
 sárì
 sárò
@@ -20235,7 +18650,6 @@ sáwid, sáw-id
 sáwsaw
 sáwì
 sáy-o
-sáy-ong
 sáy-ong
 sáya
 sáyaw
@@ -20262,8 +18676,6 @@ síal
 síb-ot
 síbag
 síbid
-síbid
-síbid
 síbin
 síbo
 síbo, síbò
@@ -20281,7 +18693,6 @@ sída
 síday
 sídla
 sídlak
-sídlang
 sídlang
 sídlaw
 sídngan
@@ -20329,18 +18740,14 @@ síl-ok
 sílab
 sílaba
 sílag
-sílag
 sílak
 sílaw
 sílhig
 síli
 sílik
-sílik
-sílog
 sílog
 sílong
 sílot
-sílung
 sílung
 sílwak
 sílwà
@@ -20371,7 +18778,6 @@ síngkal
 síngkaw
 síngkub
 síngkì
-síngkì
 síngo
 síngsing
 síngud
@@ -20381,7 +18787,6 @@ sínit
 sínko
 sínodo, sinodó
 sínta
-sínta
 síntak
 síntas
 síntok
@@ -20390,15 +18795,12 @@ sínuk
 sínyas
 síod, siód
 síok
-síok
 síot
-síp-on
 síp-on
 sípad
 sípan
 sípat
 síping
-sípit
 sípit
 síplat
 sípo
@@ -20434,11 +18836,9 @@ síò, siô
 sîsî, sísì
 sób-on
 sóbol
-sóbol
 sóbra
 sóbre
 sóbrekáma
-sóbsob
 sóbsob
 sód-o
 sóda
@@ -20447,7 +18847,6 @@ sógò
 sóhol
 sóhot
 sóhot, súhut
-sókbit
 sókbit
 sókdap
 sókdol
@@ -20458,7 +18857,6 @@ sókmà
 sóknà
 sókol
 sóksok
-sóksok
 sóktan, súktan, etc.
 sólngan, sólngon, etc.
 sólong
@@ -20467,7 +18865,6 @@ sóndol
 sónggab
 sóngkod
 sónlog
-sónson
 sónson
 sóob, soób
 sóod
@@ -20479,10 +18876,8 @@ sópsop
 sópò
 sórot
 sórò
-sórò
 sóso
 sóta
-sótsot
 sótsot
 sóysoy
 sôsô
@@ -20496,16 +18891,11 @@ súbay
 súbhan
 súblak
 súblang
-súblang
 súblì
-súbok
 súbok
 súbol
 súbsub
-súbsub
 súbul, sóbol
-súbung
-súbung
 súbung
 súbwag
 súbwan
@@ -20517,8 +18907,6 @@ súdlan, etc.
 súdlib
 súdlut
 súdsud
-súdsud
-súdsud
 súdyang
 súdyot
 súdyà
@@ -20527,8 +18915,6 @@ súg-an
 súg-o
 súg-ut
 súgat
-súgat
-súgba
 súgba
 súgbo
 súghay
@@ -20543,17 +18929,14 @@ súgpay
 súgpon
 súgpà
 súgud
-súgud
 súgyot
 súhut
 súk-ad
-súk-ay
 súk-ay
 súk-it
 súka
 súkad
 súkang
-súkat
 súkat
 súklà
 súklì
@@ -20567,19 +18950,13 @@ súl-ab
 súl-ub
 súl-ug
 súlak
-súlak
 súlang
-súlang
-súlang
-súlay
 súlay
 súlda
 súlhan, sólhan
 súlhay
-súlhay
 súlib
 súlit
-súlput
 súlput
 súlpà
 súlpò
@@ -20588,7 +18965,6 @@ súlsul
 súlta, sultár
 súlud
 súluk
-súlung
 súlung
 súm-an
 súm-od
@@ -20602,7 +18978,6 @@ súmbal
 súmbung
 súmong
 súmpa
-súmpa
 súmpak
 súmpay
 súmpit
@@ -20615,9 +18990,7 @@ sún-ad
 sún-an
 súnda
 súndal
-súndal
 súndang
-súndol
 súndol
 súndon
 súndug
@@ -20641,8 +19014,6 @@ súngkù
 súngo
 súngon
 súngroy
-súngroy
-súngsung
 súngsung
 súngì
 súni
@@ -20650,14 +19021,12 @@ súnit
 súnlug
 súnok
 súnsun
-súnsun
 súnta
 súntok
 súnug
 súnyod
 súod
 súok
-súp-ay
 súp-ay
 súpang
 súpas
@@ -20673,9 +19042,7 @@ súr-aw
 súr-o
 súr-ub
 súra
-súra
 súray
-súri
 súri
 súrib
 súrip
@@ -20687,7 +19054,6 @@ súrà
 súsi
 sústo
 súsyo
-súsyo
 sútsut
 súy-aw
 súyak
@@ -20695,7 +19061,6 @@ súyon
 súyup
 súyà, suyâ-suyâ
 t
-ta
 ta
 tabakéra
 tabakéro
@@ -20731,10 +19096,8 @@ tabángkò
 tabás
 tabáw
 tabíd
-tabíd
 tabíg
 tabígi
-tabís
 tabís
 tabíyog
 tabî-tábì
@@ -20751,7 +19114,6 @@ tabúl-tabúl
 tabúyug
 tadiáw, tádiaw
 tadyáw, tádyaw
-tag
 tag
 taga
 tagakán
@@ -20791,7 +19153,6 @@ tagró-tágro
 tagsalabúd, tagsaláb-ug
 tagsarabúd, tagsaráb-ug
 tagsá-tágsa
-tagsá-tágsa
 tagsáon
 tagtulúgnaw
 tagu-, tago-
@@ -20821,12 +19182,10 @@ tagámhay
 tagámtam
 tagáwtaw
 tagâ
-tagâ
 tagâ-tagâ
 tagâ-tágà
 tagílyas
 tagín-op, tagín-up
-tagíngting
 tagíngting
 tagínop, tagínup
 tagínus
@@ -20834,12 +19193,10 @@ tagíptip
 tagítì, tagîtî
 tagíya, tag-íya
 tagódtod
-tagódtod
 tagók
 tagóm-a
 tagótlo
 tagúb
-tagúbtub
 tagúbtub
 tagúd-tágud, tagúd-tagúd
 tagúm-a
@@ -20882,7 +19239,6 @@ takáb
 takám-tákam
 takáng-tákang
 takáy-tákay
-takáy-tákay
 takâ
 takídlon
 takílid
@@ -20893,11 +19249,7 @@ takúb-takúb
 takúd
 takúl
 takúl-takúl
-takúl-takúl
 takúpis
-takúpis
-takúpis nga pánit
-takúpis nga pánit
 takúpis nga pánit
 takús
 takús-ínit
@@ -20950,7 +19302,6 @@ talapusón
 talapuán
 talapuánan
 talapíkan
-talarík
 talarík
 talatapán
 talatapón
@@ -21034,8 +19385,6 @@ taláng-taláng
 taláng-tálang
 talángkaw
 talángkod
-talángkod
-talángtang
 talángtang
 taláphan
 taláptap
@@ -21066,7 +19415,6 @@ talíwan
 talíwis
 talódtod
 talóg
-talón
 talón
 talónan
 talóng
@@ -21108,7 +19456,6 @@ tamparán
 tampirás
 tampuháw
 tampulingán
-tampulingán
 tampulánga
 tampálas
 tampíon
@@ -21124,7 +19471,6 @@ tamálus
 tamáo, tamá-o
 tamásak
 tamások
-tamások
 tamáwo
 tamáy-támay
 tamí-tamí
@@ -21132,7 +19478,6 @@ tamí-támi, tamí-tamí
 tamílok
 tamíng
 tamínsot
-tamóy
 tamóy
 tamúd
 tamúdyos
@@ -21166,7 +19511,6 @@ tanáng
 taníng
 tanód
 tanóg
-tanóg
 tanók
 tanúm
 tanús
@@ -21192,7 +19536,6 @@ tapán-tápan
 tapángko
 tapás
 tapát
-tapát
 tapéte
 tapí
 tapí-tápi
@@ -21202,7 +19545,6 @@ tapî
 tapî-tápì
 tapó-tapó
 tapók
-tapól
 tapól
 tapón
 tapóyay
@@ -21236,11 +19578,8 @@ tarnáta
 tarogán
 taroróng
 tará-tará
-tará-tará
-tará-tará
 tarádag
 tarádyon
-tarág-tarág
 tarág-tarág
 tarágman
 tarámbal
@@ -21250,19 +19589,16 @@ tarámnan
 tarámos
 tarápad
 tarápang
-tarápang
 tarásak
 taráwik, tarawík
 taráwis
 tarí-tári
-tarík
 tarík
 tarín
 taríngka, tarínka
 tarípa
 taríthi
 taríwis
-taríya
 taríya
 tarî
 taró, tarô
@@ -21287,14 +19623,12 @@ tawhiyó, táwhiyo
 tawohánon
 tawá
 tawá-táwa
-tawá-táwa
 tawág
 tawás
 tawílì
 tawís-táwis
 tawó-táwo
 tawól-tawól
-tay
 tay
 tayabá
 tayám
@@ -21313,7 +19647,6 @@ taíp
 taís, ta-ís
 taó, ta-ó
 taó-táo
-taó-táo
 taón
 taón, táon
 taúl
@@ -21330,7 +19663,6 @@ telón
 temblór, témblor
 templádo
 tempráno
-tenedór
 tenedór
 tenisán
 teniénta
@@ -21397,7 +19729,6 @@ tigraramíg
 tigsalabúd
 tigsaláb-ug
 tigsará
-tigsará
 tigsápul
 tigtampálas
 tigtulúgnaw
@@ -21445,7 +19776,6 @@ tikâ-tíkà
 tikí-tíki
 tikím
 tikî
-tikî
 tikód
 tikód-tikód
 tikóndong
@@ -21467,7 +19797,6 @@ tilindákan
 tilinguháon, tilinguhaón
 tilipunán
 tilipón-típon
-tilád
 tilád
 tilágà
 tiláok, tilá-ok
@@ -21602,7 +19931,6 @@ tinágtag
 tinágò
 tinái, tiná-i
 tináo
-tináo
 tinápay
 tinárso
 tinátay
@@ -21620,7 +19948,6 @@ tinúb-an
 tinúbò
 tinúla
 tinúlin
-tinúm-an
 tinúm-an
 tinún-an
 tinúsmug
@@ -21691,9 +20018,7 @@ tióg-tióg
 tióg-tíog
 tiók-tiók
 tión
-tión
 tión-tión
-tióndò
 tióndò
 tióng
 tiópì
@@ -21703,10 +20028,8 @@ todó-tódo
 todós
 todô
 togón
-togón
 tohóg
 tohóg-tóhog
-tohók
 tohók
 tohók-tohók
 tohók-tohókon
@@ -21736,7 +20059,6 @@ toloktokón
 toloktokón, toloktókon
 tolokádon
 tolokáron
-tolokáron
 tolotibóklod
 tolotádyaw, tolotadyáw
 toloóhan
@@ -21757,10 +20079,7 @@ topól
 torakón
 torawík, toráwik
 tornáda,-o
-tornáda,-o
-tornáda,-o
 tornéo
-tornílyo
 tornílyo
 torníyo
 tororokón, tururukón
@@ -21786,7 +20105,6 @@ toó
 toób
 toók
 toón
-toóng
 toóng
 trabahadór
 trabesíya
@@ -21842,26 +20160,20 @@ tubáan
 tubás
 tubáy
 tubâ
-tubâ
 tubéro
 tubí-túbi
 tubíg-túbig
 tubígon
 tubó
 tubók
-tubók
 tubô
 tubúd
-tubúg
 tubúg
 tubúl
 tubún-ak
 tubúng
-tubúng
-tubúng
 tubúng, túbung
 tubús
-tubús-túbus
 tubús-túbus
 tudlotdarága
 tudâ-túdà
@@ -21880,18 +20192,14 @@ tugálpò
 tugás
 tugásan
 tugáw
-tugáw
 tugáwhà
 tugâ
 tugón
-tugúb
 tugúb
 tugúd
 tugún
 tugút
 tuháng
-tuháw
-tuháw
 tuháw
 tuháy
 tuháy-túhay
@@ -21907,7 +20215,6 @@ tukís
 tukî
 tukúb
 tukúd
-tukúd
 tukús
 tulabón
 tulahán
@@ -21921,7 +20228,6 @@ tulubúhan
 tulughúngan
 tulugmáhon
 tulugyánan
-tulugán
 tulugán
 tuluktukón
 tulukurón
@@ -21944,7 +20250,6 @@ tuluyoón, tulúy-on
 tuluyó, tulúyò
 tulábong
 tulábyog
-tulágsik
 tulágsik
 tulákdong
 tulálay
@@ -22006,10 +20311,8 @@ tumulukíb, tumulúkib
 tumulóo
 tumulúkud
 tumágsak
-tumágsak
 tumándok
 tumáo, tumáwo
-tumóg
 tumóg
 tunggarô
 tungkáaw
@@ -22031,7 +20334,6 @@ tunúng
 tupád
 tupâ
 tupó-túpo
-tupók
 tupók
 tupók-túpok, tupók-tupók
 tupúng
@@ -22061,7 +20363,6 @@ turúk-turúk
 turúk-túruk
 turúksù
 turútud
-turútuk
 turútuk
 turútut
 tusík
@@ -22106,7 +20407,6 @@ táas
 táb-ang
 tábad
 tábag
-tábag
 tában
 tábang
 tábas
@@ -22145,10 +20445,8 @@ tágbas
 tágbaw
 tágbon, tágban
 tágbong
-tágbong
 tágboy
 tágbò
-tágduk
 tágduk
 tághap
 tághol
@@ -22159,19 +20457,15 @@ tágnak
 tágnà
 tágob, tagób
 tágpon
-tágpon
 tágpò
 tágring
-tágsa
 tágsa
 tágsik
 tágsing
 tágtag
 tágub
 tágum
-tágum
 tágwa
-tágà
 tágà
 tágò
 tágù
@@ -22182,11 +20476,9 @@ táhap
 táhaw
 táhong, tahóng
 táhud
-táhud
 táhung, tahúng
 táhur
 tái, tá-i
-táihop
 táihop
 ták-an
 ták-um
@@ -22207,7 +20499,6 @@ táklad
 táklap
 táklas
 táklo
-táklub
 táklub
 táklung
 táklus
@@ -22230,7 +20521,6 @@ tálhà
 tálhò, tálho
 táli
 tálo
-tálo
 tálok
 tálon
 táltag
@@ -22243,18 +20533,14 @@ támad
 táman
 támay
 támba
-támba
 támbag
 támbal
-támban
 támban
 támbi
 támbing
 támbis
-támbis
 támbok
 támbol, tamból
-támbon
 támbon
 támbong
 támbì
@@ -22307,19 +20593,14 @@ tángkan, tángkon
 tángkap
 tángkas
 tángkol
-tángkol
 tángkong
-tángkup
 tángkup
 tángkò
 tánglad
 tánglà
 tángon
-tángon
 tángsò
 tángtang
-tángtang
-tángub
 tángub
 tángway
 táning
@@ -22339,14 +20620,11 @@ tánum
 tányag
 tányog
 táo
-táo
 táp-ing
-táp-ok
 táp-ok
 táp-ol
 tápa
 tápad
-tápak
 tápak
 tápal
 tápan
@@ -22354,15 +20632,11 @@ tápang
 tápang, tapáng
 tápas
 tápay
-tápay
 tápdas
 tápgo
 táphan
 tápia
-tápia
 tápis
-tápis
-táplak
 táplak
 táplik, taplík
 tápnan
@@ -22384,16 +20658,12 @@ tárhan
 tárik
 tárma
 táro
-táro
 társo
 tárung
-tárung
-tása
 tása
 tásak
 táslot
 tásmad
-tástas
 tástas
 tátap
 tátat
@@ -22432,11 +20702,9 @@ témplo
 témporas
 ténis
 térna
-térna
 térno
 térsya
 tétano, tetanó
-téutéu
 téutéu
 téwtéw
 téxto
@@ -22469,7 +20737,6 @@ tígbaw
 tígbong
 tígdas
 tígduk
-tígduk
 tígdà
 tíghok
 tígis
@@ -22484,7 +20751,6 @@ tíid
 tíin
 tíkad
 tíkal
-tíkal
 tíkam
 tíkas
 tíkba
@@ -22495,11 +20761,8 @@ tíklod
 tíkmà
 tíknul
 tíkop
-tíkop
 tíkos, tikós
 tíkoy
-tíkoy
-tíktik
 tíktik
 tíkul, tikúl
 tíkus, tikús
@@ -22513,9 +20776,7 @@ tíla
 tílhà
 tílik
 tím-os
-tím-os
 tímbal
-tímbang
 tímbang
 tímbol
 tímbre
@@ -22529,7 +20790,6 @@ tímpa
 tímpos, tímpus
 tímsim
 tímtim
-tímtim
 tímuas
 tímug
 tímwas
@@ -22542,16 +20802,12 @@ tíndak
 tínday
 tínde
 tíndog
-tíndog
-tíndog
 tíngad
-tíngal
 tíngal
 tíngaw
 tíngban, tíngbon
 tíngeu, tingéu
 tíngew, tingéw
-tíngga
 tíngga
 tínggas
 tínggib
@@ -22561,15 +20817,11 @@ tínggà
 tínghoy
 tíngil
 tíngkas
-tíngkas
-tíngkaw
 tíngkaw
 tíngkoy
 tíngkì
 tíngkò
 tínglan
-tínglan
-tíngting
 tíngting
 tíngug
 tíngyo
@@ -22581,7 +20833,6 @@ tíntà, tínta
 tínung
 tínà
 tíog
-tíog
 tíop
 típan
 típay
@@ -22592,7 +20843,6 @@ típia
 típig
 típiok
 típlang
-típlok
 típlok
 típo
 típon
@@ -22616,7 +20866,6 @@ títeres, titerés
 títi
 tíwid
 tíyog
-tíyog
 tíyò, tíyo
 tíà
 tíò
@@ -22625,16 +20874,12 @@ tîtî
 tódas
 tódo
 tódtod
-tódtod
-tódtod
-tódtod
 tóga
 tógdò
 tóghod
 tógma
 tógnod
 tógol
-tógon
 tógon
 tóhog
 tók-ap
@@ -22647,8 +20892,6 @@ tókmo
 tókod
 tókoy
 tóksò
-tóktok
-tóktok
 tóktok
 tókwon
 tóla
@@ -22667,7 +20910,6 @@ tóno
 tónto
 tónton
 tóo
-tóo
 tóob
 tóod, toód
 tóog
@@ -22680,7 +20922,6 @@ tópo
 tópra
 tóptop
 tóre
-tórno
 tórno
 tóro
 tórpe
@@ -22695,14 +20936,12 @@ tóstos
 tótoy
 tótò
 tóytoy
-tóytoy
 tôtô
 túad
 túak
 túaw, tuáw
 túb-as
 túb-ok
-túba
 túba
 túbal
 túbas
@@ -22716,12 +20955,9 @@ túblon
 túbo
 túbsan, túbson
 túbtub
-túbtub
 túbuk
 túbung
-túbung
 túbì
-túbò
 túbò
 túd-an
 túdag
@@ -22732,16 +20968,11 @@ túdlan, tudlánay
 túdling
 túdlò
 túdlò sang dalága
-túdlò sang dalága
-túdlò sang dalága
 túdtud
 túdà
 túg-an
 túga
-túga
 túgban, túgbon
-túgbong
-túgbong
 túgbong
 túgdang
 túgduk
@@ -22766,12 +20997,9 @@ túgpay
 túgpo
 túgpon
 túgpò
-túgpò
 túgrò
 túgtan
 túgtug
-túgtug
-túgut
 túgut
 túgyan
 túhad
@@ -22784,7 +21012,6 @@ túhà
 túid
 túig
 túk-an
-túka
 túka
 túkaw
 túkbil
@@ -22799,36 +21026,26 @@ túknul
 túkrì
 túktuk
 túkud
-túkud
-túkung
 túkung
 túl-an
 túl-id
 túla
 túlad, tulád
 túlak
-túlak
-túlin
-túlin
 túlin
 túltug
-túltul
 túltul
 túlug
 túluk
 túlung
 túlus
-túlus
 túlì
 túlò
-túm-an
 túm-an
 túm-ok
 túm-oy
 túma
 túman
-túman
-túmba
 túmba
 túmbak
 túmban
@@ -22864,8 +21081,6 @@ túngkud
 túngkò
 túnglì
 túngtung
-túngtung
-túngtung
 túngup
 túnlon
 túntun
@@ -22892,7 +21107,6 @@ túrong
 túros
 túrsi
 túruk
-túruk
 túryal, turyál
 túrà
 tús-an
@@ -22915,7 +21129,6 @@ túud
 túus
 túwad
 túwak
-túwak
 túya
 túyan
 túyang
@@ -22925,583 +21138,272 @@ túyub
 túyum
 túyò
 u
-u
-ubág
 ubág
 ubálhang
-ubálhang
-ubán
 ubán
 ubánon
-ubánon
-ubás
 ubás
 ubáy
-ubáy
-ubít
 ubít
 ubó
-ubó
-ubúd-ubudán
 ubúd-ubudán
 ubúd-uburán
-ubúd-uburán
-ubúd-ubúd
 ubúd-ubúd
 ubús
-ubús
-ubús
-ubús
-ubús
-ubús
-ubús-ubús
 ubús-ubús
 ubús-úbus
-ubús-úbus
-udagán
 udagán
 udyúykuy
-udyúykuy
-udág
 udág
 udágan
-udágan
-udáygon
 udáygon
 udáyhon
-udáyhon
-udók
 udók
 udót-udót
-udót-udót
-ugayóng
 ugayóng
 ugdáng-úgdang
-ugdáng-úgdang
-ugdángan
 ugdángan
 ugsarán
-ugsarán
-ugá
 ugá
 ugád-úgad
-ugád-úgad
-ugái
 ugái
 ugáling
-ugáling
-ugálì
 ugálì
 ugám
-ugám
-ugámid
 ugámid
 ugángan
-ugángan
-ugánot
 ugánot
 ugásip
-ugásip
-ugát
 ugát
 ugáy
-ugáy
-ugís
-ugís
-ugís
 ugís
 ugóy-úgoy
-ugóy-úgoy
-ugút
-ugút
-ugút
 ugút
 uháw
-uháw
-uháy
 uháy
 ukagán
-ukagán
-ukáb
 ukáb
 ukáng-úkang
-ukáng-úkang
-ukát-úkat
 ukát-úkat
 ukón
-ukón
-ukúb-ukúb
 ukúb-ukúb
 ukúb-úkub
-ukúb-úkub
 ukút
-ukút
-ukút
-ukút
-ulalóng
-ulalóng
-ulalóng
-ulalóng
-ulalóng
 ulalóng
 ularóy
-ularóy
-ulasón
 ulasón
 ulaán
-ulaán
-ulianón
 ulianón
 uligâ, ulígà
-uligâ, ulígà
-ulikíd
 ulikíd
 ulingíd
-ulingíd
-ulingíg
 ulingíg
 ulobánwa, uló-bánwa
-ulobánwa, uló-bánwa
-ulu-, -ulu-
 ulu-, -ulu-
 ulubásan
-ulubásan
-ulubáson
 ulubáson
 ulubítan
-ulubítan
-ulugbáti
 ulugbáti
 ulugtásan
-ulugtásan
-ulugtúmon
 ulugtúmon
 uluhán
-uluhán
-ululián
 ululián
 ululí
-ululí
-ululúson, ululusón
 ululúson, ululusón
 ulumánon
-ulumánon
-ulungán
 ulungán
 uluníson
-uluníson
-ulunúngan
 ulunúngan
 ulupángon
-ulupángon
-ulusisáon, ulusisaón
 ulusisáon, ulusisaón
 ulusoyón
-ulusoyón
-ulutangán
 ulutangán
 ulutangón
-ulutangón
-ulutanón
 ulutanón
 ulutwásan
-ulutwásan
-ulutíson
 ulutíson
 uluyatán
-uluyatán
-uluyogón
 uluyogón
 uluyonán
-uluyonán
-uláb
 uláb
 ulágon
-ulágon
-uláhi
 uláhi
 ulán
-ulán
-ulánan
 ulánan
 uláng
-uláng
-uláng
-uláng
-ulás
 ulás
 uláwa
-uláwa
-uláyhon
 uláyhon
 uláynon
-uláynon
-ulí
 ulí
 ulíbay
-ulíbay
-ulíbhay
 ulíbhay
 ulígyat
-ulígyat
-ulíhi, ulihí
 ulíhi, ulihí
 ulímpay
-ulímpay
-ulín
 ulín
 ulínggan
-ulínggan
-ulípon
 ulípon
 ulít
-ulít
-ulít-úlit, ulít-ulít
 ulít-úlit, ulít-ulít
 ulî
-ulî
-ulî
-ulî
-ulóhan, ulohán
 ulóhan, ulohán
 ulú-úlu
-ulú-úlu
-ulúd
 ulúd
 ulúhan
-ulúhan
-ulúk
 ulúk
 ulúmhon
-ulúmhon
-ulún
 ulún
 ulúnan
-ulúnan
-ulúnlan
 ulúnlan
 ulúpdon
-ulúpdon
-ulúron
 ulúron
 ulús
-ulús
-ulút
 ulút
 ulútngan
-ulútngan
-ulútud
 ulútud
 um
-um
-umahulúkan
 umahulúkan
 umalamót
-umalamót
-umalapín
 umalapín
 umalági
-umalági
-umalágsa
 umalágsa
 umalámbit
-umalámbit
-umalámpò
 umalámpò
 umamályo
-umamályo
-umbanón
 umbanón
 umpisá
-umpisá
-umpáring, umparíng
 umpáring, umparíng
 umulúgyon
-umulúgyon
-umulúlang
 umulúlang
 umulúna
-umulúna
-umulúpang
 umulúpang
 umá
-umá
-umá
-umá
-umágad
 umágad
 umál
-umál
-umán
 umán
 umáng-umáng
-umáng-umáng
-umánhon
 umánhon
 umáyaw
-umáyaw
-umól
 umól
 umúg
-umúg
-unahán
 unahán
 unanád
-unanád
-unawán, unáwan
 unawán, unáwan
 ungwénto
-ungwénto
-ungá
 ungá
 ungáb
-ungáb
-ungás
 ungás
 ungâ
-ungâ
-ungót
 ungót
 ungóy-ungóy, ungóy-úngoy
-ungóy-ungóy, ungóy-úngoy
-unidád
 unidád
 unipórmi
-unipórmi
-unsíta
 unsíta
 untánì
-untánì
-unungán
 unungán
 uná
-uná
-uná
-uná
-uná-uná
 uná-uná
 unáhan
-unáhan
-unát-únat
 unát-únat
 unáw
-unáw
 unáw, únaw
-unáw, únaw
-unáw, únaw
-unáw, únaw
-unáy
-unáy
-unáy
-unáy
-unáy
 unáy
 unís
-unís
-unúd
 unúd
 unúdnon
-unúdnon
-unús
 unús
 unút
-unút
-upá
 upá
 upáng
-upáng
-upáw
 upáw
 upâ
-upâ
-upâ, úpà
 upâ, úpà
 upís
-upís
-upók
 upók
 upóng
-upóng
-upúd
-upúd
-upúd
 upúd
 upúd-upúd
-upúd-upúd
-upúd-úpud
 upúd-úpud
 upúdan
-upúdan
-upúk
 upúk
 upús
-upús
-upús nga sinulî
-upús nga sinulî
-upús nga sinulî
 upús nga sinulî
 urimón
-urimón
-urubítan
 urubítan
 urudóton
-urudóton
-urugílon
 urugílon
 urulí
-urulí
-urumánon
 urumánon
 urungán
-urungán
-urutúp
 urutúp
 urá
-urá
-uráb
 uráb
 uráhab
-uráhab
-uráis
 uráis
 uráka
-uráka
-uráng
 uráng
 urángul
-urángul
-uráod, urá-od
 uráod, urá-od
 urároy
-urároy
-urásip
 urásip
 urát-urát
-urát-urát
-uríbay
 uríbay
 uríka
-uríka
-uríud
 uríud
 urók
-urók
-urók
-urók
-urúad
 urúad
 urúkay, urukáy
-urúkay, urukáy
-urúng
 urúng
 urút-úrut
-urút-úrut
-urúy-úruy
 urúy-úruy
 usará
-usará
-uslít, uslitán, uslitón
 uslít, uslitán, uslitón
 usuréro
-usuréro
 usá
-usá
-usá
-usá
-usá-úsa
-usá-úsa
-usá-úsa
-usá-úsa
-usá-úsa
 usá-úsa
 usáog
-usáog
-usísà
 usísà
 usúb-úsub
-usúb-úsub
-usúg
-usúg
-usúg
 usúg
 usúg-úsug
-usúg-úsug
-usúra
 usúra
 utbúngan
-utbúngan
-utitíd
 utitíd
 utwásan
-utwásan
-uták
 uták
 utás
-utás
-utáut, utá-ut
 utáut, utá-ut
 utáw-útaw
-utáw-útaw
-utáy-utáy
 utáy-utáy
 utís
-utís
-utúd
-utúd
-utúd
 utúd
 utúd-utúd
-utúd-utúd
-utúd-útud
 utúd-útud
 utúg
-utúg
-utúm
 utúm
 utúng, utúng-útung, utúng-utúng
-utúng, utúng-útung, utúng-utúng
-utúng-utúng
 utúng-utúng
 utús
-utús
-utút
 utút
 uwák
-uwák
-uwák-úwak
 uwák-úwak
 uwáy
-uwáy
-uyahón
 uyahón
 uyakúp
-uyakúp
-uyapús
 uyapús
 uyayâ
-uyayâ
 uyá-uyá
-uyá-uyá
-uyáb
 uyáb
 uyád-úyad
 uyáhan, uyáhon
-uyáhan, uyáhon
-uyák-úyak
 uyák-úyak
 uyákmò
-uyákmò
-uyáng
 uyáng
 uyápad
-uyápad
-uyás
 uyás
 uyáy
-uyáy
 uyâ
-uyâ
-uísit
 uísit
 v
 w
@@ -23517,16 +21419,13 @@ walihán
 walá
 walágay
 walák-wálak
-walák-wálak
 walás-wálas
 waláwag
 waláy, walá'y
 waláy-wálay
 walâ
 walâ sing
-walâ sing
 walí-wáli
-walís
 walís
 waló
 waló-wálo
@@ -23543,7 +21442,6 @@ warát
 waráwag
 warâ
 warâ ti
-warâ ti
 wasigán
 wasí
 waták-waták
@@ -23552,7 +21450,6 @@ watí-watí
 wayá-wayá
 wayáng
 waáy, wa'áy
-waáy-wáay
 waáy-wáay
 waóg, wa-óg
 waóg-wáog, wa-ógwá-og
@@ -23574,7 +21471,6 @@ wágkos
 wágtang
 wáhig
 wái, wá-i
-wái, wá-i
 wákal
 wákha
 wáklos
@@ -23587,7 +21483,6 @@ wálay
 wálda
 wáli
 wálik
-wáling
 wáling
 wális
 wálwal
@@ -23641,7 +21536,6 @@ yamuhát
 yamuhíng
 yamíg
 yamî
-yamî
 yang
 yangkót-yángkot
 yangáp-yángap
@@ -23658,7 +21552,6 @@ yayongán
 yayát
 yayát-yáyat
 yaúb
-yaúb
 yokót
 yokô
 yubitán
@@ -23672,7 +21565,6 @@ yuhúm-yúhum
 yumô-yúmò
 yundô-yúndò
 yunggô-yúnggò
-yunâ
 yunâ
 yunô-yúnò
 yupók
@@ -23740,7 +21632,6 @@ yúnke
 yúpok
 yúpyup
 yútyut
-yútyut
 yúyo
 yúyum
 yûyô, yúyò
@@ -23772,8 +21663,6 @@ z
 ábwà
 ábyan
 ád-ad
-ád-ad
-ád-ad
 áda
 ádat
 ádgaw
@@ -23782,12 +21671,10 @@ z
 ádto
 ádyò
 ádò
-ádò
 ág-ag
 ága
 ágad
 ágak
-ágao
 ágao
 ágap
 ágas
@@ -23841,7 +21728,6 @@ z
 ákli
 ákmol
 ákon
-ákon
 ákra
 ákta
 ákto
@@ -23866,7 +21752,6 @@ z
 álma
 álmon
 álom
-álom
 álon
 álong
 álop
@@ -23884,11 +21769,9 @@ z
 ályas
 álì, alî-álì
 álò
-álò
 áma
 ámag
 ámak
-áman
 áman
 ámba
 ámbak
@@ -23897,13 +21780,11 @@ z
 ámbi
 ámbit
 ámbo
-ámbo
 ámbon
 ámbong
 ámbò
 ámion
 ámlig
-ámo
 ámo
 ámog
 ámon
@@ -23914,18 +21795,15 @@ z
 ámpin
 ámpis
 ámpit
-ámpit
 ámpò
 ámyon
 ámò
 án-an
 ána
-ána
 ánad
 ánao
 ánas
 ánaw
-ánay
 ánay
 ánda
 ándak
@@ -23950,11 +21828,8 @@ z
 ángkak
 ángkas
 ángkat
-ángkat
-ángkat
 ángkob
 ángkod
-ángkon
 ángkon
 ángkop
 ángkwa
@@ -23975,7 +21850,6 @@ z
 ánis
 ánit
 ánkla
-áno
 áno
 ánod
 ánok
@@ -24013,7 +21887,6 @@ z
 áplod
 ápog
 ápok
-ápok
 ápol
 ápong
 ápoy
@@ -24029,8 +21902,6 @@ z
 árat
 árbol
 árbol de puégo
-árbol de puégo
-árbol de puégo
 ári
 árka
 árko
@@ -24038,7 +21909,6 @@ z
 árnika
 árnis
 áron
-árong
 árong
 árpa
 árte
@@ -24058,7 +21928,6 @@ z
 ásod
 ásog
 ásoy
-ásoy
 ásta
 ásuang
 áswang
@@ -24070,7 +21939,6 @@ z
 áti
 átip
 átis
-áto
 áto
 átok
 átomo
@@ -24092,7 +21960,6 @@ z
 áwot
 áwto, awtorisár, awtorisasyón
 áwà
-áwà
 áy
 áy-ay
 áyam
@@ -24106,918 +21973,423 @@ z
 áypan, áypon
 áyî
 ébano, ebanó
-ébano, ebanó
-éhe
 éhe
 éntra
-éntra
-éxtra
 éxtra
 ía
-ía
-íak
 íak
 íban
-íban
-íbok
-íbok
-íbok
-íbok
-íbok
-íbok
-íbok
 íbok
 íbug
-íbug
-íbus
 íbus
 íbwal
-íbwal
-íbà
 íbà
 íd-id
-íd-id
-ídas
 ídas
 ídik
-ídik
-ídlab
 ídlab
 ídlak
-ídlak
-ídlas
 ídlas
 ídwan
-ídwan
-ídyok
 ídyok
 íga
-íga
-ígang
 ígang
 ígham
-ígham
-ígi
 ígi
 ígmat
-ígmat
-ígmà
 ígmà
 ígnuk
-ígnuk
-ígnut
 ígnut
 ígod
-ígod
-ígong
 ígong
 ígot
-ígot
-ígpat
 ígpat
 ígpit
-ígpit
-ígwà
 ígwà
 ígò
-ígò
-íhaw
 íhaw
 íhi
-íhi
-íhoy
 íhoy
 íhì
-íhì
-íka
 íka
 íkang
-íkang
-íkban
 íkban
 íkbaw
-íkbaw
-íkit
 íkit
 íklip
-íklip
-íkning
 íkning
 íkog
-íkog
-íla
 íla
 ílab
-ílab
-ílak
 ílak
 ílaw
-ílaw
-ílig
 ílig
 ílis
-ílis
-ílo
 ílo
 ílog
-ílog
-ílog
-ílog
-ílok
 ílok
 ílong
-ílong
-ílub
 ílub
 ílwak
-ílwak
-ílà
 ílà
 íma
-íma
-ímaw
-ímaw
-ímaw
 ímaw
 ími
-ími
-ímnan, ímnon
 ímnan, ímnon
 ímo
-ímo
-ímol
 ímol
 ímon
-ímon
-ímot
 ímot
 ímpas
-ímpas
-ímpon
 ímpon
 ímpug
-ímpug
-ímtan
 ímtan
 ín-in
-ín-in
-ínas
 ínas
 índay
-índay
-índis
 índis
 índì
-índì
-ínggat
 ínggat
 ínggo
-ínggo
-ínghit
 ínghit
 íngkib
-íngkib
-íngkit
 íngkit
 íngkà
-íngkà
-íngod
 íngod
 íngol
-íngol
-íngos
 íngos
 íngà
-íngà
-ínit
 ínit
 ínkib
-ínkib
-ínkit
 ínkit
 ínkà
-ínkà
-ínot
 ínot
 ínsa
-ínsa
-ínsik
 ínsik
 íntok
-íntok
-íntus
 íntus
 íntò
-íntò
-ínyam
 ínyam
 ínyo
-ínyo
-íos, í-os
 íos, í-os
 ípil
-ípil
-íping
 íping
 íplok
-íplok
-ípot
 ípot
 ípò
-ípò
-írab
 írab
 íras, irás
-íras, irás
-íraw
 íraw
 íro
-íro
-írong
 írong
 ís-is
-ís-is
-ísa
 ísa
 ísdog, isdóg
-ísdog, isdóg
-ísdà
 ísdà
 ísgan
-ísgan
-ísip
 ísip
 ísla
-ísla
-íslan
 íslan
 ísol
-ísol
-ísol
-ísol
-ísrot
 ísrot
 ísug
-ísug
-íswad
 íswad
 íswag
-íswag
-ít-it
 ít-it
 ítik
-ítik
-ítlog
 ítlog
 ítok
-ítok
-ítot
 ítot
 ítung
-ítung
-ítyan
 ítyan
 íwag
-íwag
-íwang
 íwang
 íwat
-íwat
-íway
 íway
 íwos
-íwos
-íwà
 íwà
 íya
-íya
-íyak
 íyak
 íyos
-íyos
-íyus
 íyus
 ó
-ó
-ób-ob
 ób-ob
 óba
-óba
-óbad
 óbad
 óban; obánon
-óban; obánon
-óbog
 óbog
 óbong
-óbong
-óbong
-óbong
-óbra
 óbra
 ód-od
-ód-od
-ódlon
 ódlon
 ódok
-ódok
-ódong
 ódong
 ódto
-ódto
-ódyong, odyóng
 ódyong, odyóng
 ógbo
-ógbo
-ógbos
 ógbos
 ógdo
-ógdo
-ógdok
 ógdok
 óghay
-óghay
-ógkan
 ógkan
 ógkat
-ógkat
-ógpot
 ógpot
 ógsang
-ógsang
-ógto
 ógto
 ógwad
-ógwad
-ógwat
 ógwat
 ógyo
-ógyo
-óho
 óho
 óhong
-óhong
-óhot
 óhot
 ók-ok
-ók-ok
-ókdom
 ókdom
 óklab
-óklab
-óklò
 óklò
 ókob
-ókob
-ókol
 ókol
 ókon
-ókon
-ókot
-ókot
-ókot
 ókot
 ókò
-ókò
-ól-ol
-ól-ol
-ól-ol
-ól-ol
-ól-ol
 ól-ol
 ólbo
-ólbo
-óldog
 óldog
 ólhot
-ólhot
-ólo
 ólo
 ólog
-ólog
-ólpot
 ólpot
 óm-om
-óm-om
-ómal
 ómal
 ómol
-ómol
-ómoy
 ómoy
 ón-on
-ón-on
-ón-ón
 ón-ón
 óng-ong
-óng-ong
-óngì
 óngì
 ónog
-ónog
-ónras
 ónras
 ónse
-ónse
-ónto
 ónto
 óntoy
-óntoy
-óplok
 óplok
 óplot
-óplot
-ópol
 ópol
 ópyo
-ópyo
-órag
 órag
 óras
-óras
-órden
 órden
 órna
-órna
-órno
 órno
 óro
-óro
-órong
 órong
 ós-os
-ós-os
-ós-os
-ós-os
-ósad
 ósad
 ósbong
-ósbong
-ósdang
 ósdang
 ósgang
-ósgang
-óskan
 óskan
 óslob
-óslob
-ósmod
 ósmod
 ósngab
-ósngab
-ósngad
 ósngad
 óso
-óso
-óso
-óso
-ósok
 ósok
 óson
-óson
-óstyas
 óstyas
 ót-ot
-ót-ot
-ótbong
 ótbong
 ótok
-ótok
-ótok
-ótok
-ótol
 ótol
 ótop
-ótop
-ótoy
 ótoy
 ótso
-ótso
-ótwas
 ótwas
 ówang
-ówang
-óway
 óway
 ówà
-ówà
-óy-oy
 óy-oy
 óya
-óya
-úba
 úba
 úbad
-úbad
-úban
 úban
 úbas
-úbas
-úbhon
 úbhon
 úbi
-úbi
-úbre
 úbre
 úbud
-úbud
-úbung
 úbung
 úbus
-úbus
-úd-ud
-úd-ud
-úd-ud
 úd-ud
 údak
-údak
-údal
 údal
 údhà
-údhà
-údkan
 údkan
 údlon
-údlon
-údyak
 údyak
 údyong
-údyong
-údyong
-údyong
-úga
 úga
 úgay
-úgay
-úgbo
 úgbo
 úgdang
-úgdang
-úgdaw
 úgdaw
 úgduk
-úgduk
-úgduk
-úgduk
-úghad
 úghad
 úghay
-úghay
-úghoy
 úghoy
 úgkan, ugkánan
-úgkan, ugkánan
-úgmud
 úgmud
 úgnud
-úgnud
-úgo
 úgo
 úgoy
-úgoy
-úgpong
 úgpong
 úgpot
-úgpot
-úgsad
 úgsad
 úgsang
-úgsang
-úgsod
-úgsod
-úgsod
-úgsod
-úgsod
 úgsod
 úgtak
-úgtak
-úgtan, etc.
 úgtan, etc.
 úgtas
-úgtas
-úgtom
 úgtom
 úgtus
-úgtus
-úgyak
 úgyak
 úgyon
-úgyon
-úhaw
 úhaw
 úho, uhó
-úho, uhó
-úk-uk
 úk-uk
 úkad
-úkad
-úkag
 úkag
 úkap
-úkap
-úkay
-úkay
-úkay
 úkay
 úkbaw
-úkbaw
-úkbo
-úkbo
-úkbo
 úkbo
 úkbong
-úkbong
-úkdan
 úkdan
 úklò, uklô-úklò
-úklò, uklô-úklò
-úkol
 úkol
 úkub
-úkub
-úkud
 úkud
 úkut
-úkut
-úkut
-úkut
-úl-ul
-úl-ul
-úl-ul
 úl-ul
 úlag
-úlag
-úlang
-úlang
-úlang
 úlang
 úlaw
-úlaw
-úlay
 úlay
 úli
-úli
-úli, ulí
 úli, ulí
 úling
-úling
-úlo
 úlo
 úlpuk
-úlpuk
-úlud
 úlud
 úlway
-úlway
-úlway
-úlway
-úlya
 úlya
 úlyab
-úlyab
-úlyak
-úlyak
-úlyak
 úlyak
 úlyan
-úlyan
-úlyas
 úlyas
 úlyog
-úlyog
-úlà
 úlà
 úlì
-úlì
-úlì, ulî
 úlì, ulî
 úmal
-úmal
-úmang
 úmang
 úmbak
-úmbak
-úmban
 úmban
 úmbo
-úmbo
-úmbok
 úmbok
 úmid
-úmid
-úmil
 úmil
 úmol
-úmol
-úmpaw
 úmpaw
 úmpit
-úmpit
-úmpok
 úmpok
 úmud
-úmud
-úna
 úna
 únab
-únab
-únaw
 únaw
 únay
-únay
-úndag
 úndag
 úndang
-úndang
-úndras
 úndras
 úndù
-úndù
-úngad
 úngad
 úngal
-úngal
-úngas
 úngas
 únghan
-únghan
-úngkil
-úngkil
-úngkil
 úngkil
 úngon
-úngon
-úngot
 úngot
 úngud
-úngud
-úngud
-úngud
-úngyat
-úngyat
-úngyat
 úngyat
 únhan
-únhan
-únhay
 únhay
 únkil
-únkil
-únlan
 únlan
 únlog
-únlog
-únsa
 únsa
 úntat
-úntat
-úntay
 úntay
 úntud
-úntud
-úntul
 úntul
 úntà
-úntà
-únung
 únung
 únut
-únut
-únyat
 únyat
 úpag, upág
-úpag, upág
-úpak
 úpak
 úpas
-úpas
-úpas
-úpas
-úpud
 úpud
 úrag
-úrag
-úray
 úray
 úring, uríng
-úring, uríng
-úrsa
 úrsa
 úrut
-úrut
-ús-us
 ús-us
 úsa
-úsa
-úsang
 úsang
 úsap
-úsap
-úsdang
-úsdang
-úsdang
 úsdang
 úsdul
-úsdul
-úsgang
 úsgang
 úsgon
-úsgon
-úsik
 úsik
 úslan
-úslan
-úsmo
 úsmo
 úsmud
-úsmud
-úsngab
 úsngab
 úsngad
-úsngad
-úsngad
-úsngad
-úso
-úso
-úso
 úso
 úsog, usóg
-úsog, usóg
-úsok
 úsok
 úson, usón
-úson, usón
-úsoy
 úsoy
 úsug
-úsug
-úsung
-úsung
-úsung
 úsung
 úswad
-úswad
-úswag
 úswag
 út-ut
-út-ut
-útan
 útan
 útang
-útang
-útbug
 útbug
 útbung
-útbung
-útdan
 útdan
 úti
-úti
-útud
-útud
-útud
 útud
 útus
-útus
-útwas
 útwas
 úwak, uwák-úwak
-úwak, uwák-úwak
-úwang
 úwang
 úway
-úway
-úwà
 úwà
 úy
-úy
-úy-uy
 úy-uy
 úya
-úya
-úya, úy-a
 úya, úy-a
 úyang
-úyang
-úyap
-úyap
-úyap
 úyap
 úyat
-úyat
-úyaw
-úyaw
-úyaw
-úyaw
-úyaw
 úyaw
 úyhaw
-úyhaw
-úyog
 úyog
 úyon
-úyon
 úyong
-úyong
-úysit
 úysit
