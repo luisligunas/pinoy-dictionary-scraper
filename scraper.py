@@ -7,7 +7,7 @@ import argparse
 def main():
     parser = argparse.ArgumentParser(description='Dictionary Configurations')
     parser.add_argument("--dictionaries", dest="dictionaries", type=comma_separated)
-    parser.add_argument("--output_file", dest="output_file", type=argparse.FileType('w'))#, encoding='UTF-8'))
+    parser.add_argument("--output_file", dest="output_file", type=argparse.FileType('w', encoding='UTF-8'))
     args = parser.parse_args()
 
     dictionaries = ["tagalog", "cebuano", "hiligaynon", "ilocano"]
@@ -22,7 +22,7 @@ def main():
     words_from_all_dictionaries = []
     for dictionary in dictionaries_requested:
         words_from_all_dictionaries += get_all_words(dictionary)
-    jsonString = json.dumps(words_from_all_dictionaries, indent = 4)
+    jsonString = json.dumps(words_from_all_dictionaries, indent = 4, ensure_ascii=False)
 
     output_to_file_successful = False
     if args.output_file:
