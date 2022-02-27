@@ -1,0 +1,36 @@
+name: Build and Release
+on: 
+  push:
+    paths:
+      - 'Scraped Data/Dictionaries/*_dictionary.json'
+jobs:
+    build:
+      name: Regenerate Word Lists
+      runs-on: ubuntu-latest
+      steps:
+        # Checkout Repository
+        - uses: actions/checkout@v1
+        
+        - name: Regenerate Word Lists
+          run: |
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/tagalog_dictionary.json --output_file "Scraped Data"/"Word List"/tagalog_word_list.txt --output_type txt
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/tagalog_dictionary.json --output_file "Scraped Data"/"Word List"/tagalog_word_list.json --output_type json
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/cebuano_dictionary.json --output_file "Scraped Data"/"Word List"/cebuano_word_list.txt --output_type txt
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/cebuano_dictionary.json --output_file "Scraped Data"/"Word List"/cebuano_word_list.json --output_type json
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/hiligaynon_dictionary.json --output_file "Scraped Data"/"Word List"/hiligaynon_word_list.txt --output_type txt
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/hiligaynon_dictionary.json --output_file "Scraped Data"/"Word List"/hiligaynon_word_list.json --output_type json
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/ilocano_dictionary.json --output_file "Scraped Data"/"Word List"/ilocano_word_list.txt --output_type txt
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/ilocano_dictionary.json --output_file "Scraped Data"/"Word List"/ilocano_word_list.json --output_type json
+        
+        - name: Commit Files
+          run: |
+            git config --local user.email action@github.com
+            git config --local user.name "GitHub Action"
+            git add .
+            got commit -m "Update word lists based on dictionary JSON files"
+
+        - name: Push Changes
+          uses: ad-m/github-push-action@v0.6.0
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: main
