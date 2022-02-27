@@ -5,13 +5,14 @@ def main():
     parser = argparse.ArgumentParser(description='Conversion IO')
     parser.add_argument("--input_file", dest="input_file", type=argparse.FileType('r', encoding='UTF-8'), required=True)
     parser.add_argument("--output_file", dest="output_file", type=argparse.FileType('w', encoding='UTF-8'))
-    parser.add_argument("--output_type", dest="output_type", type=str)
+    parser.add_argument("--output_type", dest="output_type", type=str, choices=["txt", "json"], default="json")
     args = parser.parse_args()
 
     dictionary = json.load(args.input_file)
     word_list = []
     for entry in dictionary:
         word_list.append(entry["word"])
+    word_list = list(set(word_list))
     word_list.sort()
 
     output_string = ""

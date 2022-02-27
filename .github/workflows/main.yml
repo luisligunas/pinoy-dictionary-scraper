@@ -10,6 +10,10 @@ jobs:
       steps:
         # Checkout Repository
         - uses: actions/checkout@v1
+
+        - name: Update Filipino Dictionary
+          run: |
+            python "Helper Scripts"/update_filipino_dictionary.py --input_files "Scraped Data"/Dictionaries/tagalog_dictionary.json "Scraped Data"/Dictionaries/cebuano_dictionary.json "Scraped Data"/Dictionaries/hiligaynon_dictionary.json "Scraped Data"/Dictionaries/ilocano_dictionary.json --output_file "Scraped Data"/Dictionaries/filipino_dictionary.json
         
         - name: Regenerate Word Lists
           run: |
@@ -21,6 +25,8 @@ jobs:
             python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/hiligaynon_dictionary.json --output_file "Scraped Data"/"Word List"/hiligaynon_word_list.json --output_type json
             python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/ilocano_dictionary.json --output_file "Scraped Data"/"Word List"/ilocano_word_list.txt --output_type txt
             python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/ilocano_dictionary.json --output_file "Scraped Data"/"Word List"/ilocano_word_list.json --output_type json
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/filipino_dictionary.json --output_file "Scraped Data"/"Word List"/filipino_word_list.txt --output_type txt
+            python "Helper Scripts"/convert_dictionary_to_word_list.py --input_file "Scraped Data"/Dictionaries/filipino_dictionary.json --output_file "Scraped Data"/"Word List"/filipino_word_list.json --output_type json
         
         - name: Commit Files
           run: |
