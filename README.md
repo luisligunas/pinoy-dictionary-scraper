@@ -3,7 +3,9 @@ Scrapes Tagalog, Cebuano, Hiligaynon, and Ilocano words from [Pinoy Dictionary](
 
 The scraped words are then printed into an output file in a UTF-8-encoded JSON format.
 
-If all you need is to get a word list (with or without definitions) for your app, you may just go to the [Scraped Data folder](Scraped Data).
+If all you need is to get a word list (with or without definitions) for your app, you may just go to the [Scraped Data folder](Scraped%20Data).
+
+Note: The Ilocano dictionary is a list of English words with Ilocano definitions.
 
 ## Setup
 We need to have [Python 3](https://www.python.org/downloads/), [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) and [Requests](https://docs.python-requests.org/en/latest/) installed on your machine. If you already have these, then you should be able to run the scraper files without any additional setup.
